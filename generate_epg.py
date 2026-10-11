@@ -13,7 +13,7 @@ import xmltv
 from datetime import datetime, timedelta
 
 # ── Nastavenia ──────────────────────────────────────────────────────────────
-NUM_DAYS = 4          # Počet dní dopredu
+NUM_DAYS = 1          # Počet dní dopredu
 NUM_DAYS_BACK = 0     # Počet dní spätne
 OUTPUT_FILE = "epg.xml"
 # ────────────────────────────────────────────────────────────────────────────
