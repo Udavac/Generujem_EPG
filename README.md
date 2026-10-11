@@ -1,4 +1,5 @@
-# 365 EPG Generator
+# 365 EPG Generator bol ako predloha. Ďakujem....
+-------------------------------------------------
 Automatické generovanie EPG pre moje potreby.
 
 V IPTV Simple Client zmeň cestu k EPG na túto URL:
