@@ -43864,4 +43864,2895 @@
     <category />
     <icon src="https://image.cdn.magio.tv/eimg/LokalTV/OTT/_a0.jpg" />
   </programme>
+  <channel id="1012-mnam-tv">
+    <display-name lang="cs">Mňam TV</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/mnam.png" />
+  </channel>
+  <channel id="1148-mnau-tv">
+    <display-name lang="cs">Mňau TV</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/mnau.png" />
+  </channel>
+  <channel id="1213-hobby-tv">
+    <display-name lang="cs">Hobby TV</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/hobbytv.png" />
+  </channel>
+  <channel id="15322-hgtv">
+    <display-name lang="cs">HGTV</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/hgtv.png" />
+  </channel>
+  <channel id="15474-noe+">
+    <display-name lang="cs">Noe+</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/noeplus.png" />
+  </channel>
+  <channel id="15505-story4-(cz)">
+    <display-name lang="cs">Story4 (cz)</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/story4.png" />
+  </channel>
+  <channel id="165-e!-entertainment">
+    <display-name lang="cs">E! Entertainment</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/E.png" />
+  </channel>
+  <channel id="15588-starmax-comedy">
+    <display-name lang="cs">Starmax Comedy</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/starmaxcomedy.png" />
+  </channel>
+  <channel id="15646-starmax-family">
+    <display-name lang="cs">Starmax Family</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/starmaxfamily.png" />
+  </channel>
+  <channel id="15647-starmax-cz-sk">
+    <display-name lang="cs">Starmax CZ-SK</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/starmaxczsk.png" />
+  </channel>
+  <channel id="15649-kviff.tv">
+    <display-name lang="cs">KVIFF.TV</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/kvifftv.png" />
+  </channel>
+  <channel id="15663-ballcasterz">
+    <display-name lang="cs">Ballcasterz</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/ballcasterz.png" />
+  </channel>
+  <channel id="1363-haha-tv">
+    <display-name lang="cs">HaHa TV</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/hahatv.png" />
+  </channel>
+  <channel id="1472-body-in-balance-(sk)">
+    <display-name lang="cs">Body in Balance (sk)</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/bib.png" />
+  </channel>
+  <channel id="15403-volant.tv">
+    <display-name lang="cs">volant.tv</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/volanttv.png" />
+  </channel>
+  <channel id="15471-skvele-tv">
+    <display-name lang="cs">Skvelé TV</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/skvele.png" />
+  </channel>
+  <channel id="15472-park-tv">
+    <display-name lang="cs">Park TV</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/park.png" />
+  </channel>
+  <channel id="15508-tv-doktor">
+    <display-name lang="cs">TV Doktor</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/tvdoktor.png" />
+  </channel>
+  <channel id="15644-gttv">
+    <display-name lang="cs">GTTV</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/gttvmoto.png" />
+  </channel>
+  <channel id="15651-tv-nr-sr">
+    <display-name lang="cs">TV NR SR</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/nrsr.png" />
+  </channel>
+  <channel id="1022-history2">
+    <display-name lang="cs">History2</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/h2.png" />
+  </channel>
+  <channel id="1099-nba-sd">
+    <display-name lang="cs">NBA SD</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/nba.png" />
+  </channel>
+  <channel id="1246-red-bull-tv">
+    <display-name lang="cs">Red Bull TV</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/redbulltv.png" />
+  </channel>
+  <channel id="15680-vantage-music">
+    <display-name lang="cs">Vantage Music</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/vantagemusic.png" />
+  </channel>
+  <channel id="15681-vantage-dance">
+    <display-name lang="cs">Vantage Dance</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/vantagedance.png" />
+  </channel>
+  <channel id="15682-vantage-rock">
+    <display-name lang="cs">Vantage Rock</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/vantagerock.png" />
+  </channel>
+  <channel id="15683-vantage-classic">
+    <display-name lang="cs">Vantage Classic</display-name>
+    <icon src="http://sms.cz/kategorie/televize/bmp/loga/velka/vantageclassic.png" />
+  </channel>
+  <programme start="20261011202900 +0200" channel="15649-kviff.tv" stop="20261011221600 +0200">
+    <title>Zatracená krvavá láska</title>
+    <desc>66% Kristen Stewart a Katy O'Brian v neodolatelně podvratném thrilleru, který vám zvýší tepovku a vyplaví endorfiny</desc>
+  </programme>
+  <programme start="20261011203500 +0200" channel="15647-starmax-cz-sk" stop="20261011225200 +0200">
+    <title>Dítě číslo (44)</title>
+    <desc>EPG PLAY Píše se rok 1953. Leo Děmidov je válečný hrdina a jako příslušník sovětské tajné policie se těší dobrému postavení a spokojenému životu</desc>
+  </programme>
+  <programme start="20261011203900 +0200" channel="15646-starmax-family" stop="20261011221000 +0200">
+    <title>Hon na čarodějnice</title>
+    <desc>EPG PLAY Výpravný film vypráví příběh hrdinného křižáka Behmana (Nicolas Cage) a jeho nejbližšího přítele Felsona (Ron Perlman). Po desetiletích</desc>
+  </programme>
+  <programme start="20261011204500 +0200" channel="15505-story4-(cz)" stop="20261011221500 +0200">
+    <title>Vaření s láskou</title>
+    <desc />
+  </programme>
+  <programme start="20261011210100 +0200" channel="15663-ballcasterz" stop="20261011224200 +0200">
+    <title>KUDY BĚŽÍ ZAJÍC (304)</title>
+    <desc>KBZ 304 6.10.-13.10</desc>
+  </programme>
+  <programme start="20261011212500 +0200" channel="15471-skvele-tv" stop="20261011221000 +0200">
+    <title>V Rukách vyrobené</title>
+    <desc>Výroba ruženca
+Veci v rukách vyrobené, majú pre nás často tú najväčšiu hodnotu. A pre niektorých to je vášnivý koníček. Pridajte sa aj Vy</desc>
+  </programme>
+  <programme start="20261011213000 +0200" channel="165-e!-entertainment" stop="20261011223000 +0200">
+    <title>Zpackané operace</title>
+    <desc>Zrodila se jizva
+Ženě, která se narodila s vyhřezlým střevem, zůstalo zjizvené břicho. Napodobitelka celebrit utratí milion dolarů za odstranění dětského oleje z prsů</desc>
+  </programme>
+  <programme start="20261011213000 +0200" channel="1213-hobby-tv" stop="20261011223000 +0200">
+    <title>Najdi, sprav a rozjeď to! (5)</title>
+    <desc>Pickup
+Henry a Sam restaurují klasický americký pick-up Ford s povrchovou úpravou „rat rod“ aby s ním mohli vyrazit na svoji verzi amerického tripu</desc>
+  </programme>
+  <programme start="20261011213900 +0200" channel="15588-starmax-comedy" stop="20261011232300 +0200">
+    <title>Bodyguard na volné noze</title>
+    <desc>56% EPG PLAY Mason Pettits (John Cena), bývalý agent speciálních jednotek přijme práci, aby zajistil bezpečnost Claire Weiilngton (Alison Brie), novinářce</desc>
+  </programme>
+  <programme start="20261011214500 +0200" channel="15474-noe+" stop="20261011234500 +0200">
+    <title>Navždy budu vidět vaše tváře</title>
+    <desc>Francouzské drama otevírá silné téma setkání obětí a pachatelů a ukazuje, jak může jediný rozhovor změnit lidské životy. Nedává jednoduché odpovědi</desc>
+  </programme>
+  <programme start="20261011214500 +0200" channel="1022-history2" stop="20261011223000 +0200">
+    <title>UFO Hunters</title>
+    <desc>Aliens At The Airport
+The team investigate a strange object seen over Chicago's O'Hare Airport in (2006). Are aliens watching our airports? And if so, could they have a malevolent agenda?</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011223000 +0200">
+    <title>Yoga with Maťka</title>
+    <desc>Good vibes flow</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="1148-mnau-tv" stop="20261011223000 +0200">
+    <title>Mláďátkov</title>
+    <desc>Roztomilý pořad plný mláďátek a jejich prvních krůčků. Sledujte nejhezčí chvíle z života mláďat, které vám vykouzlí úsměv na tváři</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="15680-vantage-music" stop="20261011230000 +0200">
+    <title>Vantage Velvet</title>
+    <desc>Smooth slow jams, R&amp;B and sexy videos to finalise your evening</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="1363-haha-tv" stop="20261011230000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="15682-vantage-rock" stop="20261012010000 +0200">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="15322-hgtv" stop="20261011230000 +0200">
+    <title>Koupili jsme ruinu, co teď? I (4)</title>
+    <desc>Páry z celých USA se zajímají o nejlevnější a nejvíce zchátralé domy na trhu. Dokážou tyto nechtěné skládky proměnit v žádané nemovitosti?</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="15403-volant.tv" stop="20261011223000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Hrubis- Citroen C5 Aicross hybrid, Opel Mokka 96</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="1246-red-bull-tv" stop="20261011224000 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011220000 +0200" channel="15472-park-tv" stop="20261011230000 +0200">
+    <title>Neobyčajný svet zvierat</title>
+    <desc>Réžia programu je v rukách zvierat, ktoré sú zároveň hlavnými hrdinami príbehov. Nechajte sa prekvapiť s Park TV</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="15683-vantage-classic" stop="20261011230000 +0200">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!)</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="15681-vantage-dance" stop="20261012000000 +0200">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="1012-mnam-tv" stop="20261011230000 +0200">
+    <title>Středomořské domy od Charlieho Luxtona (5)</title>
+    <desc>Costa del sol
+Charlie Luxton navštíví dům připomínající záď zaoceánského parníku, dům s jediným obytným prostorem, který je mistrovským dílem navrženým</desc>
+  </programme>
+  <programme start="20261011220000 +0200" channel="15651-tv-nr-sr" stop="20261011230000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011221000 +0200" channel="15471-skvele-tv" stop="20261011224200 +0200">
+    <title>V Remesle</title>
+    <desc>Zlatníci z Banskej Štiavnice
+Ak chcete spoznať tých, čo sa našli v remesle, sledujte čo dokážu. Možno sa v remesle nájdete aj vy. Inšpirujte sa a nemajte strach začať</desc>
+  </programme>
+  <programme start="20261011221000 +0200" channel="15646-starmax-family" stop="20261011234700 +0200">
+    <title>Borderlands</title>
+    <desc>EPG PLAY Lilith (Cate Blanchett), nechvalně proslulá lovkyně lidí s tajemnou minulostí, se jen nerada vrací domů na Pandoru, nejchaotičtější planetu v galaxii</desc>
+  </programme>
+  <programme start="20261011221500 +0200" channel="15505-story4-(cz)" stop="20261011234500 +0200">
+    <title>Svatební prsten</title>
+    <desc />
+  </programme>
+  <programme start="20261011221600 +0200" channel="15649-kviff.tv" stop="20261011235800 +0200">
+    <title>Dozorkyně</title>
+    <desc>63% Gustav Möller se po snímku Tísňové volání vrací s dalším nervy drásajícím thrillerem z prostředí dánské věznice</desc>
+  </programme>
+  <programme start="20261011223000 +0200" channel="165-e!-entertainment" stop="20261011233000 +0200">
+    <title>Držte krok s Kardashians</title>
+    <desc>Pojďme hrát!
+Kardashianové se utkají s Jacksonovými v charitativním softballovém zápase. Kris shromažďuje prostředky na renovaci Watts Empowerment Center</desc>
+  </programme>
+  <programme start="20261011223000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011233000 +0200">
+    <title>Power joga</title>
+    <desc>2. tréning</desc>
+  </programme>
+  <programme start="20261011223000 +0200" channel="15403-volant.tv" stop="20261011230000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Dominic Cars- Honda CRV, Hyundai Santa Fe</desc>
+  </programme>
+  <programme start="20261011223000 +0200" channel="1022-history2" stop="20261011231500 +0200">
+    <title>Roswell: The First Witness (1)</title>
+    <desc>75% The Journal
+A cryptic journal sparks an unprecedented investigation into whether a UFO crashed at Roswell, NM in (1947). What actually crashed there? The US government claimed it was a weather balloon. Others spoke of alien bodies, and government intimidation</desc>
+  </programme>
+  <programme start="20261011223000 +0200" channel="1148-mnau-tv" stop="20261011230000 +0200">
+    <title>Crazy, crazy, crazy</title>
+    <desc>Divoký pořad plný energie a zábavy! Sledujte bláznivé kousky zvířat, jejich hravou povahu a nečekané momenty, které vás rozesmějí</desc>
+  </programme>
+  <programme start="20261011223000 +0200" channel="1213-hobby-tv" stop="20261011230000 +0200">
+    <title>Rybáři z Iberie (2)</title>
+    <desc>Řeky Iberia, hranice rozšíření atlantického lososa. Podvodní rybolov v Galicii. Na skalách Getaria se Salabardem. Dva způsoby, jak chytit mořského okouna ve Figueira da Foz</desc>
+  </programme>
+  <programme start="20261011224000 +0200" channel="1246-red-bull-tv" stop="20261011232100 +0200">
+    <title>Unrideable I (4)</title>
+    <desc>Sacrifices
+Hard Enduro rivals Billy Bolt and Mario Román battle it out in Türkiye at the scenic 2024 Sea to Sky event</desc>
+  </programme>
+  <programme start="20261011224200 +0200" channel="15663-ballcasterz" stop="20261011225300 +0200">
+    <title>Zajícův vlog z Kongresového centra</title>
+    <desc>Kongresak vlog</desc>
+  </programme>
+  <programme start="20261011224200 +0200" channel="15471-skvele-tv" stop="20261012000000 +0200">
+    <title>V Pohybe</title>
+    <desc>Majstrovstvá Slovenska v 10 tancoch 2023
+V tanci nemôžeš byť dobrý alebo zlý. Môžeš len žiť pre tanec, alebo tancovať pre život</desc>
+  </programme>
+  <programme start="20261011225200 +0200" channel="15647-starmax-cz-sk" stop="20261012002600 +0200">
+    <title>K2 vlastní cestou</title>
+    <desc>64% EPG PLAY Klára Kolouchová jako první rodilá Češka zdolala před lety Mount Everest a v loni jako první Češka a teprve dvacátá žena světa vystoupala</desc>
+  </programme>
+  <programme start="20261011225300 +0200" channel="15663-ballcasterz" stop="20261012000600 +0200">
+    <title>Tango (79)</title>
+    <desc>Vamos Česko! První repre sraz
+Tango 79 - 8.10. - 18.10</desc>
+  </programme>
+  <programme start="20261011230000 +0200" channel="15680-vantage-music" stop="20261012000000 +0200">
+    <title>Chillout Zone Special</title>
+    <desc>X-Mix 4: Dave Angel - Beyond The Heavens</desc>
+  </programme>
+  <programme start="20261011230000 +0200" channel="15683-vantage-classic" stop="20261012000000 +0200">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby</desc>
+  </programme>
+  <programme start="20261011230000 +0200" channel="1213-hobby-tv" stop="20261012000000 +0200">
+    <title>House doktor (9)</title>
+    <desc>Na dnešním trhu s bydlením existuje výrazný kontrast mezi domy, které se prodávají za okamžik, a těmi, které na trhu leží stranou</desc>
+  </programme>
+  <programme start="20261011230000 +0200" channel="1012-mnam-tv" stop="20261011233000 +0200">
+    <title>Moje Dubaj (4)</title>
+    <desc>Pořad „My Day Dubai“ vás zavede do luxusního světa Dubaje. Moderátorka Gabriela Miloda představuje wellness, fitness a gastronomii v exkluzivních resortech</desc>
+  </programme>
+  <programme start="20261011230000 +0200" channel="15403-volant.tv" stop="20261011233000 +0200">
+    <title>Videoblog volant.tv</title>
+    <desc>Karavan Concorde Carver, Yaris GR</desc>
+  </programme>
+  <programme start="20261011230000 +0200" channel="1363-haha-tv" stop="20261012000000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011230000 +0200" channel="1148-mnau-tv" stop="20261011233000 +0200">
+    <title>Čas odpočinku</title>
+    <desc>Relaxační pořad plný klidu a pohody. Užijte si nádherné záběry zvířat v jejich domácím prostředí a chvíle harmonie, které vás zbaví stresu</desc>
+  </programme>
+  <programme start="20261011230000 +0200" channel="15651-tv-nr-sr" stop="20261012000000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011230000 +0200" channel="15322-hgtv" stop="20261012000000 +0200">
+    <title>Nejděsivější americký dům III (1)</title>
+    <desc>69% The Wretched Road Trip Begins
+Retta navštěvuje strašidelné nemovitosti nominované jejich strašidelnými majiteli. Nejstrašidelnější z nich vyhraje</desc>
+  </programme>
+  <programme start="20261011230000 +0200" channel="15472-park-tv" stop="20261012000000 +0200">
+    <title>RELAX S PARK TV</title>
+    <desc>Ponorte sa s nami do nádherných farieb prírody a rozmanitého života v nej. Relaxujte s Park TV</desc>
+  </programme>
+  <programme start="20261011231500 +0200" channel="1022-history2" stop="20261012000000 +0200">
+    <title>Digging For The Truth</title>
+    <desc>The Real Temple of Doom
+Thousands of years before the Inca ruled the nation now called Peru, a strange and unique civilisation dominated the region</desc>
+  </programme>
+  <programme start="20261011232100 +0200" channel="1246-red-bull-tv" stop="20261011235900 +0200">
+    <title>Unrideable I (5)</title>
+    <desc>Through the pain
+Watch the drama as the FIM Hard Enduro World Championship 2024 finale plays out at 24MX Hixpania Hard Enduro</desc>
+  </programme>
+  <programme start="20261011232300 +0200" channel="15588-starmax-comedy" stop="20261012005300 +0200">
+    <title>Manželská rána</title>
+    <desc>58% EPG PLAY Konečně do důchodu! Majitel firmy Richard Jones ve středním věku a rozvedený se těší na život bez starostí, když přichází do své kanceláře</desc>
+  </programme>
+  <programme start="20261011233000 +0200" channel="1148-mnau-tv" stop="20261012000000 +0200">
+    <title>Kočičí svět</title>
+    <desc>Pořad plný kočičí elegance, hravosti a kouzla. Užijte si úžasné momenty ze života koček, které vás okouzlí a pobaví</desc>
+  </programme>
+  <programme start="20261011233000 +0200" channel="1472-body-in-balance-(sk)" stop="20261012000000 +0200">
+    <title>O zdraví nielen na tanieri</title>
+    <desc />
+  </programme>
+  <programme start="20261011233000 +0200" channel="165-e!-entertainment" stop="20261012003000 +0200">
+    <title>Držte krok s Kardashians</title>
+    <desc>Pán a jeho dáma
+Inspirována demonstrací March for Our Lives se Kim setkává s přeživšími střelby v Parklandu, aby se dozvěděla více o jejich hnutí</desc>
+  </programme>
+  <programme start="20261011233000 +0200" channel="15403-volant.tv" stop="20261012000000 +0200">
+    <title>Videoblog volant.tv</title>
+    <desc>HoppyGo, Celoročne pneu Continental, Celoročrné pneu</desc>
+  </programme>
+  <programme start="20261011233000 +0200" channel="1012-mnam-tv" stop="20261012003000 +0200">
+    <title>Vlasatí motorkáři - Kuřecí hody (5)</title>
+    <desc>Izrael
+Vlasatí motorkáři hledají ty nejlepší recepty na světě na kuřecí maso a vejce</desc>
+  </programme>
+  <programme start="20261011234500 +0200" channel="15505-story4-(cz)" stop="20261012024500 +0200">
+    <title>Romance na vinicích</title>
+    <desc />
+  </programme>
+  <programme start="20261011234500 +0200" channel="15474-noe+" stop="20261012024500 +0200">
+    <title>Jazz? Oh, Yes !!!</title>
+    <desc>Kapela SharkBites Jaz Q 
+Pořad nabízí příjemný odpočinek u kvalitní jazzové hudby a představuje talentované kapely i jejich tvorbu</desc>
+  </programme>
+  <programme start="20261011234700 +0200" channel="15646-starmax-family" stop="20261012012900 +0200">
+    <title>Havěť</title>
+    <desc>EPG PLAY Kalebovi je téměř třicet a ocitl se na dně: hádá se se sestrou o dědictví a přišel o nejlepšího přítele. Únik nachází ve své posedlosti exotickými zvířaty</desc>
+  </programme>
+  <programme start="20261011235800 +0200" channel="15649-kviff.tv" stop="20261012052600 +0200">
+    <title>Zveme na KVIFF.TV</title>
+    <desc>Filmy, které stojí za váš čas. Sledujte filmové novinky i kultovní díla každý den, po celý rok na www.kviff.tv</desc>
+  </programme>
+  <programme start="20261011235900 +0200" channel="1246-red-bull-tv" stop="20261012000000 +0200">
+    <title>For Reals I (9)</title>
+    <desc>From soapbox madness to skydiving with an FMX bike
+Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="15403-volant.tv" stop="20261012010000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Dominic cars- Mitsubishi Eclipse plug in, Nissan Micra</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="1213-hobby-tv" stop="20261012003000 +0200">
+    <title>Hot Cars (1)</title>
+    <desc>Noční podívaná pro milovníky krásných automobilů i krásných žen</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="1246-red-bull-tv" stop="20261012002500 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261012000000 +0200" channel="15472-park-tv" stop="20261012010000 +0200">
+    <title>RELAX S PARK TV</title>
+    <desc>Ponorte sa s nami do nádherných farieb prírody a rozmanitého života v nej. Relaxujte s Park TV</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="1472-body-in-balance-(sk)" stop="20261012010000 +0200">
+    <title>Power joga</title>
+    <desc>12.tréning</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="1363-haha-tv" stop="20261012010000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="15471-skvele-tv" stop="20261012012500 +0200">
+    <title>V Umení</title>
+    <desc>Výroba trofeje
+Zdá sa vám svet umenia neprístupný? Opak je pravdou. V umení sa môžte nájsť aj vy. Ak máte záujem, sledujte ako na to</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="15680-vantage-music" stop="20261012030000 +0200">
+    <title>Night Videos</title>
+    <desc>Whether you can't sleep, doing the night shift, or just want to keep yourself awake, Vantage has non-stop commercial free music all night long</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="15322-hgtv" stop="20261012003000 +0200">
+    <title>Hledáme bydlení: Ráj I (13)</title>
+    <desc>67% Návrat k přírodě v Mexiku
+Pár, který se seznámil ve Španělsku, chce vyměnit Madrid za pobřeží Oaxacy v Mexiku. Hledá dům využívající přírodní a místní materiály</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="1022-history2" stop="20261012004500 +0200">
+    <title>The Best of MonsterQuest</title>
+    <desc>The Hunt For Real Dragons
+They're huge, ferocious and frightening. They live in remote corners of the world. Are these real dragons descendants of prehistoric reptiles?</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="15651-tv-nr-sr" stop="20261012010000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="15683-vantage-classic" stop="20261012010000 +0200">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="15681-vantage-dance" stop="20261012020000 +0200">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+  </programme>
+  <programme start="20261012000000 +0200" channel="1148-mnau-tv" stop="20261012003000 +0200">
+    <title>Psí dobrodružství</title>
+    <desc>Zábavný pořad plný psích příběhů a radosti. Sledujte úžasné okamžiky ze života psů, jejich hravost a věrnost, které vás zahřejí u srdce</desc>
+  </programme>
+  <programme start="20261012000600 +0200" channel="15663-ballcasterz" stop="20261012014800 +0200">
+    <title>Football Club</title>
+    <desc>Kdo vládne přestupům?
+Football Club 41: Přestupy v lize 2.10.-31.10</desc>
+  </programme>
+  <programme start="20261012002500 +0200" channel="1246-red-bull-tv" stop="20261012005100 +0200">
+    <title>For Reals I (2)</title>
+    <desc>From F1 soapbox racing to breaking world records
+Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big</desc>
+  </programme>
+  <programme start="20261012002600 +0200" channel="15647-starmax-cz-sk" stop="20261012014000 +0200">
+    <title>Válka s mloky</title>
+    <desc>EPG PLAY Námořník českého původu objeví v Tichém oceánu zvláštní druh učenlivého, obřího mloka. A co se od této skutečnosti stane</desc>
+  </programme>
+  <programme start="20261012003000 +0200" channel="1213-hobby-tv" stop="20261012013000 +0200">
+    <title>Budovy, máte zelenou! (3)</title>
+    <desc>Kvalita vnitřního prostředí
+Rob navštěvuje 78 Corlette a 1 Discovery Place — dvě kanceláře v městě Johannesburgu, které vytvořily vnitřní prostředí</desc>
+  </programme>
+  <programme start="20261012003000 +0200" channel="1012-mnam-tv" stop="20261012010000 +0200">
+    <title>Pizzaři z Parmy (3)</title>
+    <desc>Prohlídka San Sebastianu
+Dodávka našich pizzařů konečně vyráží na otevřené silnice pevninské Evropy, kde jsou chlapci pohoštěni fantastickou gurmánskou</desc>
+  </programme>
+  <programme start="20261012003000 +0200" channel="165-e!-entertainment" stop="20261012010000 +0200">
+    <title>Sledujte, co se děje -````` živě</title>
+    <desc>05/10/2026
+Moderátor Andy Cohen diskutuje s hosty a diváky o událostech z popkultury</desc>
+  </programme>
+  <programme start="20261012003000 +0200" channel="15322-hgtv" stop="20261012010000 +0200">
+    <title>Hledáme bydlení: Ráj I (14)</title>
+    <desc>67% Roll Tide na Maui
+Jeden pár se stěhuje z Alabamy na havajský ostrov Maui. Hledá dům s výhledem na oceán a oplocenou zahradou pro své čtyři psy</desc>
+  </programme>
+  <programme start="20261012003000 +0200" channel="1148-mnau-tv" stop="20261012010000 +0200">
+    <title>Mňauzoo</title>
+    <desc>Objevte fascinující svět zvířat v pořadu plném pohody a zábavy. Sledujte, jak různá zvířata žijí, hrají si a poznávají svět</desc>
+  </programme>
+  <programme start="20261012004500 +0200" channel="1022-history2" stop="20261012013000 +0200">
+    <title>UFO Files</title>
+    <desc>Sightings Of The 70s
+From Delphos, Kansas to Roswell, New Mexico, explore the mysterious and the unknown, and meet those who claim to have seen UFOs</desc>
+  </programme>
+  <programme start="20261012005100 +0200" channel="1246-red-bull-tv" stop="20261012011800 +0200">
+    <title>For Reals I (5)</title>
+    <desc>From a paper plane contest to diving off ruins
+Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition</desc>
+  </programme>
+  <programme start="20261012005300 +0200" channel="15588-starmax-comedy" stop="20261012020900 +0200">
+    <title>Kuličky</title>
+    <desc>67% EPG PLAY Kuličky jsou komediální povídkový film o tom, jak ženy manipulují s muži. O drobných vydíráních, o pláči, o slzách, o schopnosti se obětovat</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="1148-mnau-tv" stop="20261012013000 +0200">
+    <title>Mláďátkov</title>
+    <desc>Roztomilý pořad plný mláďátek a jejich prvních krůčků. Sledujte nejhezčí chvíle z života mláďat, které vám vykouzlí úsměv na tváři</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="1012-mnam-tv" stop="20261012013000 +0200">
+    <title>Pravá Itálie s Riccardem (4)</title>
+    <desc>La Bottega Tusarova
+Zkušený šéfkuchař a úspěšný majitel řady podniků v Praze, Ital Riccardo Lucque, zavede v novém dokumentárním pořadu diváky do svých</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="1472-body-in-balance-(sk)" stop="20261012013000 +0200">
+    <title>Yoga with Maťka</title>
+    <desc>Mountainyoga</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="15651-tv-nr-sr" stop="20261012020000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="15683-vantage-classic" stop="20261012040000 +0200">
+    <title>Vantage Yearbook</title>
+    <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="1363-haha-tv" stop="20261012020000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="15322-hgtv" stop="20261012013000 +0200">
+    <title>Ostrovní život XVI (9)</title>
+    <desc>75% Vychovávat děti na pláži
+Pár si chce koupit svůj první dům na ostrově Aquidneck. S batoletem a dalším dítětem na cestě doufají, že najdou nemovitost se zahradou</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="165-e!-entertainment" stop="20261012020000 +0200">
+    <title>Hollywoodské médium s Tylerem Henrym</title>
+    <desc>Rebel Wilson, Chris Harrison, Sofia Vergara
+Premiéra čtvrté série se nese ve znamení hvězdného Tylera Henryho, který otevírá dveře hvězdě filmu „Pitch</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="15682-vantage-rock" stop="20261012020000 +0200">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="15472-park-tv" stop="20261012020000 +0200">
+    <title>RELAX S PARK TV</title>
+    <desc>Ponorte sa s nami do nádherných farieb prírody a rozmanitého života v nej. Relaxujte s Park TV</desc>
+  </programme>
+  <programme start="20261012010000 +0200" channel="15403-volant.tv" stop="20261012013000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Hrubiš- Cayman GT4</desc>
+  </programme>
+  <programme start="20261012011800 +0200" channel="1246-red-bull-tv" stop="20261012014400 +0200">
+    <title>For Reals I (1)</title>
+    <desc>From F1 desert racing to a skatepark in the sky
+Red Bull athletes do it all, from riding a skatepark under a hot air balloon to F1 drivers racing on water</desc>
+  </programme>
+  <programme start="20261012012500 +0200" channel="15471-skvele-tv" stop="20261012014500 +0200">
+    <title>V Kuchyni</title>
+    <desc>Pečenie kváskového chleba
+Kuchyňa nemusí byť len miestom pravidelného vyvárania. V kuchyni to môže byť aj zaujímavé. Pozerajte a skúšajte</desc>
+  </programme>
+  <programme start="20261012012900 +0200" channel="15646-starmax-family" stop="20261012031000 +0200">
+    <title>Valhalla</title>
+    <desc>Říše bohů
+EPG PLAY Výpravná fantasy založená na severských bájích a mýtech o Valhalle, kam za doprovodu valkýr přicházejí padlí bojovníci</desc>
+  </programme>
+  <programme start="20261012013000 +0200" channel="1148-mnau-tv" stop="20261012023000 +0200">
+    <title>Mňaustar</title>
+    <desc>Myslíte si, že váš domácí miláček by se mohl stát televizní hvězdou? Nahrajte nám vaše videa přes webový formulář na www.imnau.cz a sledujte Mňaustar</desc>
+  </programme>
+  <programme start="20261012013000 +0200" channel="1022-history2" stop="20261012030000 +0200">
+    <title>Ancient Aliens</title>
+    <desc>Earth Station Egypt
+Ancient Astronaut theorist Giorgio A. Tsoukalos explores the latest scientific discoveries at some of the world's most ancient places</desc>
+  </programme>
+  <programme start="20261012013000 +0200" channel="1472-body-in-balance-(sk)" stop="20261012020000 +0200">
+    <title>O zdraví nielen na tanieri</title>
+    <desc />
+  </programme>
+  <programme start="20261012013000 +0200" channel="15403-volant.tv" stop="20261012020000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Hrubiš- Mustang Mache AWD</desc>
+  </programme>
+  <programme start="20261012013000 +0200" channel="15322-hgtv" stop="20261012020000 +0200">
+    <title>Ostrovní život XVI (10)</title>
+    <desc>75% S dvojčaty na Long Beach
+Pár se kvůli práci stěhuje do Long Beach ve státě New York. Hledají ideální bydlení u vody, aby jejich dvojčata vyrůstala u oceánu</desc>
+  </programme>
+  <programme start="20261012013000 +0200" channel="1213-hobby-tv" stop="20261012023000 +0200">
+    <title>Najdi, sprav a prodej! (6)</title>
+    <desc>Henry Cole a Simon O'Brien cestují po Spojeném království. Hledají jedinečné předměty ztracené v domácnostech, na půdách, ve stodolách a kůlnách</desc>
+  </programme>
+  <programme start="20261012013000 +0200" channel="1012-mnam-tv" stop="20261012020000 +0200">
+    <title>Dolce Vita (25)</title>
+    <desc>Navštivte s námi nejkrásnější místa Evropy a podívejte se s námi pod pokličku toho co velké metropole nabízí. Inspirující design, bohatá historie, lokální</desc>
+  </programme>
+  <programme start="20261012014000 +0200" channel="15647-starmax-cz-sk" stop="20261012031200 +0200">
+    <title>Královny radosti</title>
+    <desc>EPG PLAY Královny radosti dokumentují životy tří drag queen (Monroe, Marlene, Aura), které se během ruské invaze rozhodly zůstat v ostřelovaném Kyjevě</desc>
+  </programme>
+  <programme start="20261012014400 +0200" channel="1246-red-bull-tv" stop="20261012020000 +0200">
+    <title>For Reals I (6)</title>
+    <desc>From skateboarding out a plane to 180m wall climb
+Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest</desc>
+  </programme>
+  <programme start="20261012014500 +0200" channel="15471-skvele-tv" stop="20261012024500 +0200">
+    <title>V Kuchyni</title>
+    <desc>Pečenie makróniek
+Kuchyňa nemusí byť len miestom pravidelného vyvárania. V kuchyni to môže byť aj zaujímavé. Pozerajte a skúšajte</desc>
+  </programme>
+  <programme start="20261012014800 +0200" channel="15663-ballcasterz" stop="20261012024600 +0200">
+    <title>Žluté vlajky vlají a wildcard</title>
+    <desc>FYF GW6 9.10.-14.10</desc>
+  </programme>
+  <programme start="20261012020000 +0200" channel="1472-body-in-balance-(sk)" stop="20261012023000 +0200">
+    <title>Gymnastická akadémia</title>
+    <desc>04- cviky na stred tela</desc>
+  </programme>
+  <programme start="20261012020000 +0200" channel="165-e!-entertainment" stop="20261012030000 +0200">
+    <title>Hollywoodské médium s Tylerem Henrym</title>
+    <desc>Terra Jolé, Lizzo, Howie Mandel
+Veselá hvězda seriálu „Little Women LA“ Terra Jolé se rozpláče, když Tyler přinese uznání od zesnulého otce, kterého zbožňovala</desc>
+  </programme>
+  <programme start="20261012020000 +0200" channel="15681-vantage-dance" stop="20261012050000 +0200">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+  </programme>
+  <programme start="20261012020000 +0200" channel="1012-mnam-tv" stop="20261012031000 +0200">
+    <title>Vlasatí motorkáři - Asijské dobrodružství (4)</title>
+    <desc>Japonsko – Tokio
+Japonská kuchyně je u Vlasatých motorkářů nejoblíbenější kuchyní všech dob a nyní naplňují celoživotní ambice navštívit tuto neuvěřitelnou zemi</desc>
+  </programme>
+  <programme start="20261012020000 +0200" channel="15322-hgtv" stop="20261012023000 +0200">
+    <title>Můj mezinárodní vysněný dům po výhře v loterii I (4)</title>
+    <desc>61% Po výhře v loterii má pár z Essexu 600 000 liber, které může utratit za svůj vysněný dům. Jejich seznam přání zahrnuje velkou kuchyň a prostornou zahradu</desc>
+  </programme>
+  <programme start="20261012020000 +0200" channel="1246-red-bull-tv" stop="20261012021000 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261012020000 +0200" channel="1363-haha-tv" stop="20261012030000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261012020000 +0200" channel="15403-volant.tv" stop="20261012023000 +0200">
+    <title>Štúdio volant.tv</title>
+    <desc>Studio Hederik, Studio 5 mýtov KO</desc>
+  </programme>
+  <programme start="20261012020000 +0200" channel="15682-vantage-rock" stop="20261012050000 +0200">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking</desc>
+  </programme>
+  <programme start="20261012020000 +0200" channel="15472-park-tv" stop="20261012030000 +0200">
+    <title>RELAX S PARK TV</title>
+    <desc>Ponorte sa s nami do nádherných farieb prírody a rozmanitého života v nej. Relaxujte s Park TV</desc>
+  </programme>
+  <programme start="20261012020000 +0200" channel="15651-tv-nr-sr" stop="20261012030000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261012020900 +0200" channel="15588-starmax-comedy" stop="20261012033900 +0200">
+    <title>Poslední naschvál</title>
+    <desc>EPG PLAY Ve svých 35 letech Etienne stále nedokázal odpustit svému „kamarádovi“ Jean-Patovi, který mu během celého dětství znepříjemňoval život</desc>
+  </programme>
+  <programme start="20261012021000 +0200" channel="1246-red-bull-tv" stop="20261012023700 +0200">
+    <title>For Reals I (4)</title>
+    <desc>From skydiving with skis to flying into a volcano
+Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis</desc>
+  </programme>
+  <programme start="20261012021000 +0200" channel="1246-red-bull-tv" stop="20261012021000 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261012023000 +0200" channel="1148-mnau-tv" stop="20261012030000 +0200">
+    <title>Kočičí svět</title>
+    <desc>Pořad plný kočičí elegance, hravosti a kouzla. Užijte si úžasné momenty ze života koček, které vás okouzlí a pobaví</desc>
+  </programme>
+  <programme start="20261012023000 +0200" channel="15322-hgtv" stop="20261012030000 +0200">
+    <title>Můj mezinárodní vysněný dům po výhře v loterii I (5)</title>
+    <desc>61% Kdo si chce koupit vysněný dům
+Učitel angličtiny vyhrál v herní show 500 000 liber. Laurence mu pomůže najít moderní nemovitost s šatnou a prostorem pro pánskou jeskyni</desc>
+  </programme>
+  <programme start="20261012023000 +0200" channel="1472-body-in-balance-(sk)" stop="20261012030000 +0200">
+    <title>Online hokejové tréningy</title>
+    <desc>Hokejové tréningy.sk - 3</desc>
+  </programme>
+  <programme start="20261012023000 +0200" channel="1213-hobby-tv" stop="20261012033000 +0200">
+    <title>Útěk na venkov (6)</title>
+    <desc>Lincolnshire
+Hledání dokonalých nových domovů pro rodiny, které chtějí uniknout městskému způsobu života</desc>
+  </programme>
+  <programme start="20261012023000 +0200" channel="15403-volant.tv" stop="20261012030000 +0200">
+    <title>Štúdio volant.tv</title>
+    <desc>Studio mlade talenty 1</desc>
+  </programme>
+  <programme start="20261012023700 +0200" channel="1246-red-bull-tv" stop="20261012040000 +0200">
+    <title>One Extraordinary Year</title>
+    <desc>Athletes who weren't derailed from their dreams
+Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year</desc>
+  </programme>
+  <programme start="20261012024500 +0200" channel="15471-skvele-tv" stop="20261012025500 +0200">
+    <title>V Pohybe</title>
+    <desc>Pohyb v prírode 2
+Pohyb ako koníček má veľa možností. Pozrite sa na to, ako trávia čas v pohybe niektorí nadšenci. Niečo z toho možno skúsite aj vy</desc>
+  </programme>
+  <programme start="20261012024600 +0200" channel="15663-ballcasterz" stop="20261012030200 +0200">
+    <title>Vládci fotbalu. Slavia na Letné</title>
+    <desc>VFL 40 9. 10. - 20. 10. 2026</desc>
+  </programme>
+  <programme start="20261012025500 +0200" channel="15471-skvele-tv" stop="20261012034000 +0200">
+    <title>V Pohybe</title>
+    <desc>Dni histórie
+Pohyb ako koníček má veľa možností. Pozrite sa na to, ako trávia čas v pohybe niektorí nadšenci. Niečo z toho možno skúsite aj vy</desc>
+  </programme>
+  <programme start="20261012030000 +0200" channel="1472-body-in-balance-(sk)" stop="20261012040000 +0200">
+    <title>Power joga</title>
+    <desc>11. tréning</desc>
+  </programme>
+  <programme start="20261012030000 +0200" channel="1148-mnau-tv" stop="20261012033000 +0200">
+    <title>Psí dobrodružství</title>
+    <desc>Zábavný pořad plný psích příběhů a radosti. Sledujte úžasné okamžiky ze života psů, jejich hravost a věrnost, které vás zahřejí u srdce</desc>
+  </programme>
+  <programme start="20261012030000 +0200" channel="165-e!-entertainment" stop="20261012040000 +0200">
+    <title>Držte krok s Kardashians</title>
+    <desc>Milujeme Chicago
+Kim se připravuje na narození svého třetího dítěte, Khloé se snaží vybrat kmotru pro své dítě a Kourtney debutuje jako tanečnice ve flash mobu</desc>
+  </programme>
+  <programme start="20261012030000 +0200" channel="15403-volant.tv" stop="20261012033000 +0200">
+    <title>Štúdio volant.tv</title>
+    <desc>Studio Patak Motors</desc>
+  </programme>
+  <programme start="20261012030000 +0200" channel="15322-hgtv" stop="20261012033000 +0200">
+    <title>Levný dům na pláži XXVIII (6)</title>
+    <desc>Drsné pobřeží Oregonu
+Pár, který měl první rande na pobřeží Oregonu, si chce koupit nemovitost u vody, kterou by mohl nazývat svým domovem</desc>
+  </programme>
+  <programme start="20261012030000 +0200" channel="15651-tv-nr-sr" stop="20261012040000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261012030000 +0200" channel="1022-history2" stop="20261012034500 +0200">
+    <title>Unidentified: Inside America's UFO Investigation</title>
+    <desc>Airline Encounters
+US airline pilots are reporting near mid-air collisions with UFOs. Elizondo hears a never-before-told account from a major legacy</desc>
+  </programme>
+  <programme start="20261012030000 +0200" channel="15472-park-tv" stop="20261012040000 +0200">
+    <title>RELAX S PARK TV</title>
+    <desc>Ponorte sa s nami do nádherných farieb prírody a rozmanitého života v nej. Relaxujte s Park TV</desc>
+  </programme>
+  <programme start="20261012030000 +0200" channel="15680-vantage-music" stop="20261012050000 +0200">
+    <title>Night Videos</title>
+    <desc>Whether you can't sleep, doing the night shift, or just want to keep yourself awake, Vantage has non-stop commercial free music all night long</desc>
+  </programme>
+  <programme start="20261012030000 +0200" channel="1363-haha-tv" stop="20261012040000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261012030200 +0200" channel="15663-ballcasterz" stop="20261012053500 +0200">
+    <title>Zajíc v Kongresovém centru</title>
+    <desc>KongresakV2Final</desc>
+  </programme>
+  <programme start="20261012031000 +0200" channel="15646-starmax-family" stop="20261012043400 +0200">
+    <title>Rosario</title>
+    <desc>Prokletí
+EPG PLAY Po náhlé smrti své babičky je Rosario nucena strávit noc o samotě s jejím tělem. Během čekání na příjezd sanitky s hrůzou zjišťuje</desc>
+  </programme>
+  <programme start="20261012031000 +0200" channel="1012-mnam-tv" stop="20261012033000 +0200">
+    <title>Moje zahrada (31)</title>
+    <desc>Marči Borbáš ukazuje, jak se postarat o zahradu a jak zužitkovat její plody v kuchyni</desc>
+  </programme>
+  <programme start="20261012031200 +0200" channel="15647-starmax-cz-sk" stop="20261012052200 +0200">
+    <title>Fotograf</title>
+    <desc>EPG PLAY V příběhu se vracíme k některým osudovým křižovatkám turbulentního života hlavního hrdiny (Karel Roden), člověka, který je obdařen nejedním</desc>
+  </programme>
+  <programme start="20261012033000 +0200" channel="1213-hobby-tv" stop="20261012040000 +0200">
+    <title>Jedlíci na cestách (5)</title>
+    <desc>Holandské sladké pokušení
+Jarda a Tomáš objevují sladké poklady Holandska: oplatky, smažené lívanečky i lékořicové bonbony</desc>
+  </programme>
+  <programme start="20261012033000 +0200" channel="1148-mnau-tv" stop="20261012040000 +0200">
+    <title>Mňauzoo</title>
+    <desc>Objevte fascinující svět zvířat v pořadu plném pohody a zábavy. Sledujte, jak různá zvířata žijí, hrají si a poznávají svět</desc>
+  </programme>
+  <programme start="20261012033000 +0200" channel="1012-mnam-tv" stop="20261012040000 +0200">
+    <title>Molekulární kuchyně Hestona Blumenthala (3)</title>
+    <desc>Ne každý vyznává tradiční kuchařské techniky. Navštivte svět Hestona Blumenthala a jeho molekulární kuchyně. Moderní doba si žádá unikátní styl vaření</desc>
+  </programme>
+  <programme start="20261012033000 +0200" channel="15322-hgtv" stop="20261012040000 +0200">
+    <title>Hledáme nemovitost CLIV (11)</title>
+    <desc>Hledání filmového domu v Raleighu
+Snoubenci ze Severní Karolíny hledají velký dům ve stejném koloniálním stylu, v jakém byl dům z jejich oblíbeného filmu z dětství Sám doma</desc>
+  </programme>
+  <programme start="20261012033000 +0200" channel="15403-volant.tv" stop="20261012040000 +0200">
+    <title>Štúdio volant.tv</title>
+    <desc>Studio Zdeno Luknar</desc>
+  </programme>
+  <programme start="20261012033900 +0200" channel="15588-starmax-comedy" stop="20261012050700 +0200">
+    <title>Neprůstřelná rodina</title>
+    <desc>55% EPG PLAY Otec od rodiny, který si potajmu přivydělává jako poskok mafie, má jednu noc na to, aby dostal svou rodinu z města – a zároveň uchoval své temné</desc>
+  </programme>
+  <programme start="20261012034000 +0200" channel="15471-skvele-tv" stop="20261012042000 +0200">
+    <title>V Pohybe</title>
+    <desc>Európsky pohár vo vodnom lyžovaní
+Pohyb ako koníček má veľa možností. Pozrite sa na to, ako trávia čas v pohybe niektorí nadšenci. Niečo z toho možno skúsite aj vy</desc>
+  </programme>
+  <programme start="20261012034500 +0200" channel="1022-history2" stop="20261012043000 +0200">
+    <title>UFO Hunters</title>
+    <desc>Aliens At The Airport
+The team investigate a strange object seen over Chicago's O'Hare Airport in (2006). Are aliens watching our airports? And if so, could they have a malevolent agenda?</desc>
+  </programme>
+  <programme start="20261012040000 +0200" channel="165-e!-entertainment" stop="20261012050000 +0200">
+    <title>Držte krok s Kardashians</title>
+    <desc>Dokonalá Stormi
+Kourtney se hádá s matkou kvůli problémům z minulosti, Khloé je zdrcena nečekanou ztrátou a Kylie vítá své první dítě</desc>
+  </programme>
+  <programme start="20261012040000 +0200" channel="1363-haha-tv" stop="20261012050000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261012040000 +0200" channel="1148-mnau-tv" stop="20261012043000 +0200">
+    <title>Mláďátkov</title>
+    <desc>Roztomilý pořad plný mláďátek a jejich prvních krůčků. Sledujte nejhezčí chvíle z života mláďat, které vám vykouzlí úsměv na tváři</desc>
+  </programme>
+  <programme start="20261012040000 +0200" channel="15651-tv-nr-sr" stop="20261012050000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261012040000 +0200" channel="1012-mnam-tv" stop="20261012052000 +0200">
+    <title>Chef Lignac po francouzsku (1)</title>
+    <desc>Réunion
+Zámořský departement a zároveň zámořský region Francie ležící v Indickém oceánu má samozřejmě také zcela svébytnou kuchyni. Cyril ochutnává</desc>
+  </programme>
+  <programme start="20261012040000 +0200" channel="15472-park-tv" stop="20261012050000 +0200">
+    <title>RELAX S PARK TV</title>
+    <desc>Ponorte sa s nami do nádherných farieb prírody a rozmanitého života v nej. Relaxujte s Park TV</desc>
+  </programme>
+  <programme start="20261012040000 +0200" channel="1472-body-in-balance-(sk)" stop="20261012043000 +0200">
+    <title>Fitrecepty</title>
+    <desc />
+  </programme>
+  <programme start="20261012040000 +0200" channel="1246-red-bull-tv" stop="20261012040100 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261012040000 +0200" channel="15322-hgtv" stop="20261012043000 +0200">
+    <title>Hledáme nemovitost CLIV (12)</title>
+    <desc>Bílení v Minneapolis
+Pár z Minneapolisu se přetahuje o rozpočet a touží vymalovat všechno na bílo. Kompromis možná nebude snadný, ale rozhodně nutný</desc>
+  </programme>
+  <programme start="20261012040000 +0200" channel="1213-hobby-tv" stop="20261012043000 +0200">
+    <title>Hot Cars (1)</title>
+    <desc>Noční podívaná pro milovníky krásných automobilů i krásných žen</desc>
+  </programme>
+  <programme start="20261012040000 +0200" channel="15403-volant.tv" stop="20261012043000 +0200">
+    <title>Videoblog volant.tv</title>
+    <desc>Formula F4 orlen, Citroen C4, Cupra Leon 310, Fiat 500e</desc>
+  </programme>
+  <programme start="20261012040100 +0200" channel="1246-red-bull-tv" stop="20261012051200 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261012040100 +0200" channel="1246-red-bull-tv" stop="20261012040100 +0200">
+    <title>Program information unavailable at this time</title>
+    <desc />
+  </programme>
+  <programme start="20261012042000 +0200" channel="15471-skvele-tv" stop="20261012050200 +0200">
+    <title>V Rukách vyrobené</title>
+    <desc>Výroba postavičiek pre rozprávkový svet.
+Veci v rukách vyrobené, majú pre nás často tú najväčšiu hodnotu. A pre niektorých to je vášnivý koníček. Pridajte sa aj Vy</desc>
+  </programme>
+  <programme start="20261012043000 +0200" channel="1022-history2" stop="20261012051500 +0200">
+    <title>Roswell: The First Witness (1)</title>
+    <desc>75% The Journal
+A cryptic journal sparks an unprecedented investigation into whether a UFO crashed at Roswell, NM in (1947). What actually crashed there? The US government claimed it was a weather balloon. Others spoke of alien bodies, and government intimidation</desc>
+  </programme>
+  <programme start="20261012043000 +0200" channel="1148-mnau-tv" stop="20261012053000 +0200">
+    <title>Mňaustar</title>
+    <desc>Myslíte si, že váš domácí miláček by se mohl stát televizní hvězdou? Nahrajte nám vaše videa přes webový formulář na www.imnau.cz a sledujte Mňaustar</desc>
+  </programme>
+  <programme start="20261012043000 +0200" channel="15322-hgtv" stop="20261012050000 +0200">
+    <title>Úspěch, nebo fiasko? VII (3)</title>
+    <desc>62% Problémy po koupi
+Tarek a Christina kupují za hotové peníze v aukci domy, které občas dopředu ani neviděli. A pak je renovují a opět prodají</desc>
+  </programme>
+  <programme start="20261012043000 +0200" channel="1472-body-in-balance-(sk)" stop="20261012050000 +0200">
+    <title>Yoga with Maťka</title>
+    <desc>Bali poweryoga flow</desc>
+  </programme>
+  <programme start="20261012043000 +0200" channel="15403-volant.tv" stop="20261012050000 +0200">
+    <title>Videoblog volant.tv</title>
+    <desc>Dodge Challenger, Engler desať, Porsche Cayman GT4</desc>
+  </programme>
+  <programme start="20261012043000 +0200" channel="1213-hobby-tv" stop="20261012053000 +0200">
+    <title>Krásy přírody (8)</title>
+    <desc>Nejkrásnější místa na světě
+Nejkrásnější záběry míst nezasažených lidskou civilizací od hlubin oceánů, přes pouště a džungle až po horské vrcholy</desc>
+  </programme>
+  <programme start="20261012043400 +0200" channel="15646-starmax-family" stop="20261012062900 +0200">
+    <title>Já, Tonya</title>
+    <desc>75% EPG PLAY Černočerná komedie Já, Tonya přináší divoký a stěží uvěřitelný příběh, který by vydal hned na několik životů. Vzestup z ničeho až na vrchol</desc>
+  </programme>
+  <programme start="20261012052000 +0200" channel="1012-mnam-tv" stop="20261012053000 +0200">
+    <title>BRGRS (43)</title>
+    <desc>Pořad plný šťavnatých burgerů, originálních receptů a tipů, jak si připravit ten nejlepší burger doma i na grilu</desc>
+  </programme>
+  <programme start="20261012053000 +0200" channel="1148-mnau-tv" stop="20261012060000 +0200">
+    <title>Kočičí svět</title>
+    <desc>Pořad plný kočičí elegance, hravosti a kouzla. Užijte si úžasné momenty ze života koček, které vás okouzlí a pobaví</desc>
+  </programme>
+  <programme start="20261012053000 +0200" channel="1213-hobby-tv" stop="20261012060000 +0200">
+    <title>Tipy a nápady</title>
+    <desc>Pořad plný praktických tipů a nápadů pro domácnost, tvoření i každodenní život. Inspirace, která vám usnadní den!</desc>
+  </programme>
+  <programme start="20261012053000 +0200" channel="1012-mnam-tv" stop="20261012060000 +0200">
+    <title>Nejlepší recepty</title>
+    <desc>Naši sympatičtí kuchaři pro vás připravují pokrmy z lokálních a snadno dostupných ingrediencí</desc>
+  </programme>
+  <programme start="20261011215900 +0200" channel="1246-red-bull-tv" stop="20261011220000 +0200">
+    <title>Unrideable I (2)</title>
+    <desc>Changing perspectives
+Wade Young gives his all as a privateer in the 2024 Xross Hard Enduro Rally and Red Bull Romaniacs</desc>
+  </programme>
+  <programme start="20261011213000 +0200" channel="1148-mnau-tv" stop="20261011220000 +0200">
+    <title>Mňauzoo</title>
+    <desc>Objevte fascinující svět zvířat v pořadu plném pohody a zábavy. Sledujte, jak různá zvířata žijí, hrají si a poznávají svět</desc>
+  </programme>
+  <programme start="20261011213000 +0200" channel="1012-mnam-tv" stop="20261011220000 +0200">
+    <title>Jamieho velký festival (3)</title>
+    <desc>Úžasný třídenní festival Jamieho Olivera v Londýně. Skvělé jídlo té nejvyšší kvality doplněné živou hudbou!</desc>
+  </programme>
+  <programme start="20261011213000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011220000 +0200">
+    <title>Instagym</title>
+    <desc>HIIT Uper body 2</desc>
+  </programme>
+  <programme start="20261011212000 +0200" channel="1246-red-bull-tv" stop="20261011215900 +0200">
+    <title>Unrideable I (1)</title>
+    <desc>Reign and rise
+At Red Bull Erzbergrodeo, 2023's winner - Manuel Lettenbichler - faces rising star Mitch Brightmore</desc>
+  </programme>
+  <programme start="20261011212000 +0200" channel="1246-red-bull-tv" stop="20261011212000 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011210000 +0200" channel="15651-tv-nr-sr" stop="20261011220000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="15403-volant.tv" stop="20261011220000 +0200">
+    <title>Príbehy áut volant.tv</title>
+    <desc>Škoda 110R</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="1148-mnau-tv" stop="20261011213000 +0200">
+    <title>Psí dobrodružství</title>
+    <desc>Zábavný pořad plný psích příběhů a radosti. Sledujte úžasné okamžiky ze života psů, jejich hravost a věrnost, které vás zahřejí u srdce</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="1213-hobby-tv" stop="20261011213000 +0200">
+    <title>Jedlíci na cestách (5)</title>
+    <desc>Holandské sladké pokušení
+Jarda a Tomáš objevují sladké poklady Holandska: oplatky, smažené lívanečky i lékořicové bonbony</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="1012-mnam-tv" stop="20261011213000 +0200">
+    <title>Kylie Kwong: Moje Čína (9)</title>
+    <desc>Čínsko-australská šéfkuchařka cestuje po Číně a zkoumá regionální jídla a chutě</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="15322-hgtv" stop="20261011220000 +0200">
+    <title>Koupili jsme ruinu, co teď? I (3)</title>
+    <desc>Páry z celých USA se zajímají o nejlevnější a nejvíce zchátralé domy na trhu. Dokážou tyto nechtěné skládky proměnit v žádané nemovitosti?</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="15680-vantage-music" stop="20261011220000 +0200">
+    <title>Vantage Romance</title>
+    <desc>Get in the evening mood with relaxing soft love songs</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="15681-vantage-dance" stop="20261011220000 +0200">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="1022-history2" stop="20261011214500 +0200">
+    <title>Unidentified: Inside America's UFO Investigation</title>
+    <desc>Airline Encounters
+US airline pilots are reporting near mid-air collisions with UFOs. Elizondo hears a never-before-told account from a major legacy</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="1363-haha-tv" stop="20261011220000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="15472-park-tv" stop="20261011220000 +0200">
+    <title>Neobyčajný svet zvierat</title>
+    <desc>Réžia programu je v rukách zvierat, ktoré sú zároveň hlavnými hrdinami príbehov. Nechajte sa prekvapiť s Park TV</desc>
+  </programme>
+  <programme start="20261011210000 +0200" channel="15683-vantage-classic" stop="20261011220000 +0200">
+    <title>Vantage Chillout Classics</title>
+    <desc>Relax and unwind with a chill mix of timeless ambient, lounge, and downtempo classics</desc>
+  </programme>
+  <programme start="20261011204400 +0200" channel="15471-skvele-tv" stop="20261011212500 +0200">
+    <title>V Rukách vyrobené</title>
+    <desc>Výroba postavičiek pre rozprávkový svet.
+Veci v rukách vyrobené, majú pre nás často tú najväčšiu hodnotu. A pre niektorých to je vášnivý koníček. Pridajte sa aj Vy</desc>
+  </programme>
+  <programme start="20261011203000 +0200" channel="15403-volant.tv" stop="20261011210000 +0200">
+    <title>Klasické autá</title>
+    <desc>Mustang MK1, CL 500 stream Hrubis, Škoda Favorit, Trabant Kubel</desc>
+  </programme>
+  <programme start="20261011203000 +0200" channel="1148-mnau-tv" stop="20261011210000 +0200">
+    <title>Kočičí svět</title>
+    <desc>Pořad plný kočičí elegance, hravosti a kouzla. Užijte si úžasné momenty ze života koček, které vás okouzlí a pobaví</desc>
+  </programme>
+  <programme start="20261011203000 +0200" channel="165-e!-entertainment" stop="20261011213000 +0200">
+    <title>Zpackané operace</title>
+    <desc>Ztracený zadek
+Nešťastná operace způsobí ženě jizvy a chybějící půlku zadku, což je výzva pro doktora Dubrowa. Modelka hledá druhý názor ohledně zvětšení prsou</desc>
+  </programme>
+  <programme start="20261011203000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011213000 +0200">
+    <title>Power joga</title>
+    <desc>11. tréning</desc>
+  </programme>
+  <programme start="20261011201500 +0200" channel="15663-ballcasterz" stop="20261011210100 +0200">
+    <title>Vládci fotbalu</title>
+    <desc>Karel Jarolím exkluzivně
+VLF 38 1. 10 - 20. 10. 2026</desc>
+  </programme>
+  <programme start="20261011201000 +0200" channel="15663-ballcasterz" stop="20261011201500 +0200">
+    <title>Trenér Daniel</title>
+    <desc>Hráči Sparty a Baníku
+TD 22: 6.10. - 20.10</desc>
+  </programme>
+  <programme start="20261011200500 +0200" channel="15474-noe+" stop="20261011214500 +0200">
+    <title>(Ne)mocná Uganda</title>
+    <desc>Dokumentární film (NE)Mocná Uganda přináší silný příběh českých a ugandských zdravotníků z projektu SSUUBO</desc>
+  </programme>
+  <programme start="20261011200500 +0200" channel="15471-skvele-tv" stop="20261011204400 +0200">
+    <title>V Pohybe</title>
+    <desc>Európsky pohár vo vodnom lyžovaní
+Pohyb ako koníček má veľa možností. Pozrite sa na to, ako trávia čas v pohybe niektorí nadšenci. Niečo z toho možno skúsite aj vy</desc>
+  </programme>
+  <programme start="20261011200000 +0200" channel="15322-hgtv" stop="20261011210000 +0200">
+    <title>Koupili jsme ruinu, co teď? I (2)</title>
+    <desc>Páry z celých USA se zajímají o nejlevnější a nejvíce zchátralé domy na trhu. Dokážou tyto nechtěné skládky proměnit v žádané nemovitosti?</desc>
+  </programme>
+  <programme start="20261011200000 +0200" channel="1246-red-bull-tv" stop="20261011212000 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011200000 +0200" channel="15683-vantage-classic" stop="20261011210000 +0200">
+    <title>Vantage Chillout Classics</title>
+    <desc>Relax and unwind with a chill mix of timeless ambient, lounge, and downtempo classics</desc>
+  </programme>
+  <programme start="20261011200000 +0200" channel="15680-vantage-music" stop="20261011210000 +0200">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby</desc>
+  </programme>
+  <programme start="20261011200000 +0200" channel="1213-hobby-tv" stop="20261011210000 +0200">
+    <title>Toymakerz (5)</title>
+    <desc>63% ToyMakerz ztělesňuje moderní definici svého názvu — jedinečné hračky pro velké kluky</desc>
+  </programme>
+  <programme start="20261011200000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011203000 +0200">
+    <title>O zdraví nielen na tanieri</title>
+    <desc />
+  </programme>
+  <programme start="20261011200000 +0200" channel="15403-volant.tv" stop="20261011203000 +0200">
+    <title>Klasické autá</title>
+    <desc>Alfa romeo 8C</desc>
+  </programme>
+  <programme start="20261011200000 +0200" channel="1363-haha-tv" stop="20261011210000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011200000 +0200" channel="15472-park-tv" stop="20261011210000 +0200">
+    <title>Neobyčajný svet zvierat</title>
+    <desc>Réžia programu je v rukách zvierat, ktoré sú zároveň hlavnými hrdinami príbehov. Nechajte sa prekvapiť s Park TV</desc>
+  </programme>
+  <programme start="20261011200000 +0200" channel="1012-mnam-tv" stop="20261011210000 +0200">
+    <title>Ainsleyho karibská kuchyně (5)</title>
+    <desc>Grenada
+Ainsleyho karibské dobrodružství pokračuje na Grenadě, známé jako Ostrov koření. Setká se s šéfkuchařem Brianem Benjaminem, který mu ukáže národní</desc>
+  </programme>
+  <programme start="20261011200000 +0200" channel="1148-mnau-tv" stop="20261011203000 +0200">
+    <title>Zvířátka a technologie</title>
+    <desc>Zábavný pořad plný překvapení! Sledujte, jak zvířata objevují moderní technologie a reagují na ně s humorem i zvědavostí</desc>
+  </programme>
+  <programme start="20261011200000 +0200" channel="15651-tv-nr-sr" stop="20261011210000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011195300 +0200" channel="15588-starmax-comedy" stop="20261011213900 +0200">
+    <title>Sing Street</title>
+    <desc>79% EPG PLAY Film se odehrává v Irsku v polovině 80. let, kdy v důsledku nedostatku práce řada Irů opouští zemi a odjíždí hledat štěstí do Anglie nebo Ameriky</desc>
+  </programme>
+  <programme start="20261011193500 +0200" channel="15474-noe+" stop="20261011200500 +0200">
+    <title>Můj chrám</title>
+    <desc>Martina Vondrová, psychoterapeutka, poutní kostel Horní Police 
+Cyklus rozhovorů a dokumentárních profilů významných osobností českého společenského života</desc>
+  </programme>
+  <programme start="20261011193000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011200000 +0200">
+    <title>Fitrecepty</title>
+    <desc />
+  </programme>
+  <programme start="20261011193000 +0200" channel="165-e!-entertainment" stop="20261011203000 +0200">
+    <title>Hollywoodské médium s Tylerem Henrym</title>
+    <desc>Dave a Odette Annableovi, Cesar Millan, Heidi a Spencer Prattovi
+Tyler šokuje vlivný hollywoodský pár Davea a Odette Annablovy informací, že jejich dceru</desc>
+  </programme>
+  <programme start="20261011193000 +0200" channel="15403-volant.tv" stop="20261011200000 +0200">
+    <title>Testy jazdených áut</title>
+    <desc>Saab 9-5</desc>
+  </programme>
+  <programme start="20261011193000 +0200" channel="1148-mnau-tv" stop="20261011200000 +0200">
+    <title>Crazy, crazy, crazy</title>
+    <desc>Divoký pořad plný energie a zábavy! Sledujte bláznivé kousky zvířat, jejich hravou povahu a nečekané momenty, které vás rozesmějí</desc>
+  </programme>
+  <programme start="20261011193000 +0200" channel="1022-history2" stop="20261011210000 +0200">
+    <title>Ancient Aliens</title>
+    <desc>Earth Station Egypt
+Ancient Astronaut theorist Giorgio A. Tsoukalos explores the latest scientific discoveries at some of the world's most ancient places</desc>
+  </programme>
+  <programme start="20261011193000 +0200" channel="1213-hobby-tv" stop="20261011200000 +0200">
+    <title>Moje Dubaj (2)</title>
+    <desc>Pořad „My Day Dubai“ vás zavede do luxusního světa Dubaje. Moderátorka Gabriela Miloda představuje wellness, fitness a gastronomii v exkluzivních resortech</desc>
+  </programme>
+  <programme start="20261011192000 +0200" channel="15471-skvele-tv" stop="20261011200500 +0200">
+    <title>V Pohybe</title>
+    <desc>Dni histórie
+Pohyb ako koníček má veľa možností. Pozrite sa na to, ako trávia čas v pohybe niektorí nadšenci. Niečo z toho možno skúsite aj vy</desc>
+  </programme>
+  <programme start="20261011191000 +0200" channel="15505-story4-(cz)" stop="20261011204500 +0200">
+    <title>Nezapomenutelná svatba</title>
+    <desc />
+  </programme>
+  <programme start="20261011191000 +0200" channel="15471-skvele-tv" stop="20261011192000 +0200">
+    <title>V Pohybe</title>
+    <desc>Pohyb v prírode 2
+Pohyb ako koníček má veľa možností. Pozrite sa na to, ako trávia čas v pohybe niektorí nadšenci. Niečo z toho možno skúsite aj vy</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="15403-volant.tv" stop="20261011193000 +0200">
+    <title>Testy jazdených áut</title>
+    <desc>BMW 340i F10,Chrysler pt cruiser</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011193000 +0200">
+    <title>Instagym</title>
+    <desc>Zdravý chrbát</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="15322-hgtv" stop="20261011200000 +0200">
+    <title>Koupili jsme ruinu, co teď? I (1)</title>
+    <desc>Koupili jsme ruinu
+Páry z celých USA se zajímají o nejlevnější a nejvíce zchátralé domy na trhu. Dokážou tyto nechtěné skládky proměnit v žádané nemovitosti?</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="1363-haha-tv" stop="20261011200000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="1213-hobby-tv" stop="20261011193000 +0200">
+    <title>Nebesky dobré (11)</title>
+    <desc>Pořad „Nebesky dobré“ na Mňam TV nabízí recepty francouzských cukrářů a lákavý styling dortů a koláčů</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="15651-tv-nr-sr" stop="20261011200000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="15472-park-tv" stop="20261011200000 +0200">
+    <title>Všedný a nevšedný život zvierat</title>
+    <desc>Kúsok divočiny a príbehy zvierat u Vás doma</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="15680-vantage-music" stop="20261011200000 +0200">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!)</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="15683-vantage-classic" stop="20261011200000 +0200">
+    <title>Vantage Yearbook</title>
+    <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="1148-mnau-tv" stop="20261011193000 +0200">
+    <title>Mláďátkov</title>
+    <desc>Roztomilý pořad plný mláďátek a jejich prvních krůčků. Sledujte nejhezčí chvíle z života mláďat, které vám vykouzlí úsměv na tváři</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="1012-mnam-tv" stop="20261011200000 +0200">
+    <title>Jóga: energie života (12)</title>
+    <desc>Jóga pro posílení svalů
+Zhluboka se nadechněte a připravte se na opravdovou lekci jógy. Díky našemu pořadu pochopíte, co může jóga znamenat pro váš život</desc>
+  </programme>
+  <programme start="20261011190000 +0200" channel="15682-vantage-rock" stop="20261011220000 +0200">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking</desc>
+  </programme>
+  <programme start="20261011185300 +0200" channel="15646-starmax-family" stop="20261011203900 +0200">
+    <title>Boy Kills World</title>
+    <desc>64% EPG PLAY Píše se nedaleká postapokalyptická budoucnost a městu, kde žije, vládne zkorumpovaná dynastie v čele s Hildou Van Der Koy. Právě ona mu zabila</desc>
+  </programme>
+  <programme start="20261011184500 +0200" channel="1022-history2" stop="20261011193000 +0200">
+    <title>UFO Files</title>
+    <desc>Sightings Of The 70s
+From Delphos, Kansas to Roswell, New Mexico, explore the mysterious and the unknown, and meet those who claim to have seen UFOs</desc>
+  </programme>
+  <programme start="20261011183400 +0200" channel="15647-starmax-cz-sk" stop="20261011203500 +0200">
+    <title>Ledová archa</title>
+    <desc>71% EPG PLAY Příběh je zasazený do chladné postapokalyptické budoucnosti roku 2031. Po neúspěšném pokusu o zvrácení globálního oteplování nastala</desc>
+  </programme>
+  <programme start="20261011183000 +0200" channel="15474-noe+" stop="20261011193500 +0200">
+    <title>Mše svatá z kaple Telepace</title>
+    <desc>Přenos bohoslužby z 28. neděle v mezidobí</desc>
+  </programme>
+  <programme start="20261011183000 +0200" channel="165-e!-entertainment" stop="20261011193000 +0200">
+    <title>Hollywoodské médium s Tylerem Henrym</title>
+    <desc>Scheana Shay, Brad Goreski, Karamo Brown
+Tylerovy zprávy ze záhrobí emotivně znovu spojí Scheanu Shay ze seriálu „Vanderpump Rules“ s její milovanou zesnulou babičkou</desc>
+  </programme>
+  <programme start="20261011183000 +0200" channel="1213-hobby-tv" stop="20261011190000 +0200">
+    <title>Jamie po italsku (6)</title>
+    <desc>Šéfkuchař Jamie Oliver cestuje po Itálii a prozkoumává různé nuance italské kuchyně. Učí se přitom od skutečných mistrů i místních obyvatel</desc>
+  </programme>
+  <programme start="20261011183000 +0200" channel="1012-mnam-tv" stop="20261011190000 +0200">
+    <title>Jedlíci na cestách (2)</title>
+    <desc>Holandská snídaně a tradiční sýry
+Průvodci Jarda a Tomáš cestují po světě a ochutnávají místní tradiční jídla. Představí vám nejen pouliční jídla</desc>
+  </programme>
+  <programme start="20261011183000 +0200" channel="1148-mnau-tv" stop="20261011190000 +0200">
+    <title>Mňauzoo</title>
+    <desc>Objevte fascinující svět zvířat v pořadu plném pohody a zábavy. Sledujte, jak různá zvířata žijí, hrají si a poznávají svět</desc>
+  </programme>
+  <programme start="20261011183000 +0200" channel="15403-volant.tv" stop="20261011190000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Dominic Cars-Peugeto 5008</desc>
+  </programme>
+  <programme start="20261011183000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011190000 +0200">
+    <title>Tanečná jóga</title>
+    <desc />
+  </programme>
+  <programme start="20261011183000 +0200" channel="15322-hgtv" stop="20261011190000 +0200">
+    <title>Odpad, nebo poklad? I (4)</title>
+    <desc>Hry stranou
+Manželé, kteří chtějí být lepšími vzory pro jejich syna, požádají Bobbyho, aby jim pomohl prodat část jejich sbírek a navrhl vhodný rodinný prostor</desc>
+  </programme>
+  <programme start="20261011182800 +0200" channel="15663-ballcasterz" stop="20261011201000 +0200">
+    <title>Football Club</title>
+    <desc>Kdo vládne přestupům?
+Football Club 41: Přestupy v lize 2.10.-31.10</desc>
+  </programme>
+  <programme start="20261011182800 +0200" channel="15649-kviff.tv" stop="20261011202900 +0200">
+    <title>Tenkrát podruhé</title>
+    <desc>74% Chytrá a zábavná love story vypráví o tom, co by se mohlo stát, kdybychom si mohli zopakovat ty nejkrásnější okamžiky. Je to potřeba k tomu, abychom se znovu zamilovali?</desc>
+  </programme>
+  <programme start="20261011182500 +0200" channel="15474-noe+" stop="20261011183000 +0200">
+    <title>Z pokladů duše</title>
+    <desc>Arnošt Obrusník - Chleba je Boží dar 
+Věřící pekař učí mladou generaci úctu k chlebu</desc>
+  </programme>
+  <programme start="20261011181000 +0200" channel="15471-skvele-tv" stop="20261011191000 +0200">
+    <title>V Kuchyni</title>
+    <desc>Pečenie makróniek
+Kuchyňa nemusí byť len miestom pravidelného vyvárania. V kuchyni to môže byť aj zaujímavé. Pozerajte a skúšajte</desc>
+  </programme>
+  <programme start="20261011180800 +0200" channel="15588-starmax-comedy" stop="20261011195300 +0200">
+    <title>Frajeři ve Vegas</title>
+    <desc>66% EPG PLAY Sam, Archie, Paddy a Billy jsou kamarádi od dětství a jejich osud je zavál na různá místa po zemi. Když Billy požádá svoji mladou přítelkyni</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="1012-mnam-tv" stop="20261011183000 +0200">
+    <title>Dobroty Sofie Dahlové (5)</title>
+    <desc>Bývalá modelka Sophie Dahlová, vnučka autora Roalda Dahla a herečky Patricie Neal, sdílí nápady na přípravu jídel souvisejících s náladami</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011183000 +0200">
+    <title>Zorafit- Ako cvičiť doma</title>
+    <desc>AKD Hlboké svaly trupu (Zoralates), AKD Bolesti Chrbta - Cviky na odstránenie</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="15322-hgtv" stop="20261011183000 +0200">
+    <title>Odpad, nebo poklad? I (3)</title>
+    <desc>Domeček pro panenky
+Druhé patro domu jedné ženy je plné miniatur a diorám. Nyní žádá Bobbyho o pomoc s vytvořením prostoru pro její vnoučata</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="1022-history2" stop="20261011184500 +0200">
+    <title>The Best of MonsterQuest</title>
+    <desc>The Hunt For Real Dragons
+They're huge, ferocious and frightening. They live in remote corners of the world. Are these real dragons descendants of prehistoric reptiles?</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="15651-tv-nr-sr" stop="20261011190000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="1246-red-bull-tv" stop="20261011200000 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011180000 +0200" channel="1148-mnau-tv" stop="20261011183000 +0200">
+    <title>Psí dobrodružství</title>
+    <desc>Zábavný pořad plný psích příběhů a radosti. Sledujte úžasné okamžiky ze života psů, jejich hravost a věrnost, které vás zahřejí u srdce</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="15681-vantage-dance" stop="20261011210000 +0200">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="1213-hobby-tv" stop="20261011183000 +0200">
+    <title>Barevný svět Lukáše Neckáře (2)</title>
+    <desc>Barevné kari
+Nechte se vtáhnout do pořadu Barevný svět Lukáše Neckáře! Přímo ve své vlastní kuchyni pro vás Lukáš každý den připravuje převážně asijská jídla</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="15683-vantage-classic" stop="20261011190000 +0200">
+    <title>Vantage Yearbook</title>
+    <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="15403-volant.tv" stop="20261011183000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Dominic Cars- Opel Insignia</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="15472-park-tv" stop="20261011190000 +0200">
+    <title>Všedný a nevšedný život zvierat</title>
+    <desc>Kúsok divočiny a príbehy zvierat u Vás doma</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="1363-haha-tv" stop="20261011190000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011180000 +0200" channel="165-e!-entertainment" stop="20261011183000 +0200">
+    <title>Sledujte, co se děje -````` živě</title>
+    <desc>04/10/2026
+Moderátor Andy Cohen diskutuje s hosty a diváky o událostech z popkultury</desc>
+  </programme>
+  <programme start="20261011175000 +0200" channel="15471-skvele-tv" stop="20261011181000 +0200">
+    <title>V Kuchyni</title>
+    <desc>Pečenie kváskového chleba
+Kuchyňa nemusí byť len miestom pravidelného vyvárania. V kuchyni to môže byť aj zaujímavé. Pozerajte a skúšajte</desc>
+  </programme>
+  <programme start="20261011174600 +0200" channel="15647-starmax-cz-sk" stop="20261011183400 +0200">
+    <title>Průzkumníci</title>
+    <desc>EPG PLAY Expedice po stopách dobývání himálajských vrcholů z jihu – z Káthmandú – ze 30. let a z let 1948–1949 kopíruje část objevitelské cesty údolím Langtangu</desc>
+  </programme>
+  <programme start="20261011174000 +0200" channel="15505-story4-(cz)" stop="20261011191000 +0200">
+    <title>Nezapomenutelná láska</title>
+    <desc />
+  </programme>
+  <programme start="20261011173000 +0200" channel="15322-hgtv" stop="20261011180000 +0200">
+    <title>Někdo to rád tropické I (10)</title>
+    <desc>57% Odvážná láska v Tulumu
+Po pouhých devíti měsících randění si chce jeden kanadský influencerský pár najít hnízdečko lásky a rozjet podnikání v mexickém Tulumu</desc>
+  </programme>
+  <programme start="20261011173000 +0200" channel="1012-mnam-tv" stop="20261011180000 +0200">
+    <title>Dolce Vita (25)</title>
+    <desc>Navštivte s námi nejkrásnější místa Evropy a podívejte se s námi pod pokličku toho co velké metropole nabízí. Inspirující design, bohatá historie, lokální</desc>
+  </programme>
+  <programme start="20261011173000 +0200" channel="1148-mnau-tv" stop="20261011180000 +0200">
+    <title>Kočičí svět</title>
+    <desc>Pořad plný kočičí elegance, hravosti a kouzla. Užijte si úžasné momenty ze života koček, které vás okouzlí a pobaví</desc>
+  </programme>
+  <programme start="20261011173000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011180000 +0200">
+    <title>Yoga with Maťka</title>
+    <desc>Mountainyoga</desc>
+  </programme>
+  <programme start="20261011173000 +0200" channel="1213-hobby-tv" stop="20261011180000 +0200">
+    <title>Dotek luxusu (7)</title>
+    <desc>Prozkoumejte luxusní chaty Nového Zélandu a Austrálie. Luxusní interiéry, designové kousky a elegantní styl. Objevte svět luxusu a inspirujte se pro své vlastní bydlení</desc>
+  </programme>
+  <programme start="20261011172700 +0200" channel="15663-ballcasterz" stop="20261011182800 +0200">
+    <title>Za čárou (179)</title>
+    <desc>TEP - Dynamo, GKS - Baník
+Za čárou 179 - 6.10.-12.10</desc>
+  </programme>
+  <programme start="20261011172500 +0200" channel="15474-noe+" stop="20261011182500 +0200">
+    <title>Na pořadu rodina (5)</title>
+    <desc>Děti na zemi i v nebi 
+Pořad Televize Noe a Centra pro rodinu a sociální péči v Ostravě. Setkání dvou rodin - manželů Zajíčkových a Skřičkových na téma</desc>
+  </programme>
+  <programme start="20261011171700 +0200" channel="15647-starmax-cz-sk" stop="20261011174600 +0200">
+    <title>Světlu vstříc</title>
+    <desc>1.-3.díl
+EPG PLAY Cyklus anekdotických příběhů z útulného „krematoria na kraji města" se natáčí na reálných lokacích. Krematorium v Boru se potýká</desc>
+  </programme>
+  <programme start="20261011171500 +0200" channel="1022-history2" stop="20261011180000 +0200">
+    <title>Digging For The Truth</title>
+    <desc>The Real Temple of Doom
+Thousands of years before the Inca ruled the nation now called Peru, a strange and unique civilisation dominated the region</desc>
+  </programme>
+  <programme start="20261011171000 +0200" channel="15474-noe+" stop="20261011172500 +0200">
+    <title>Přejeme si...</title>
+    <desc>Přání a písnička pro všechny, kteří jsou členy Klubu přátel televize Noe a dnes slaví své narozeniny</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="15682-vantage-rock" stop="20261011190000 +0200">
+    <title>Alternative Planet</title>
+    <desc>Two hours dedicated to new and old alternative music</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="15472-park-tv" stop="20261011180000 +0200">
+    <title>Všedný a nevšedný život zvierat</title>
+    <desc>Kúsok divočiny a príbehy zvierat u Vás doma</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="15403-volant.tv" stop="20261011180000 +0200">
+    <title>Videoblog volant.tv</title>
+    <desc>Audi etron, Mazda MX5 ND, Prvé auto Fabia vs. BMW, Polícia dialničná</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="15651-tv-nr-sr" stop="20261011180000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="15680-vantage-music" stop="20261011190000 +0200">
+    <title>Alternative Planet</title>
+    <desc>Two hours dedicated to new and old alternative music</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="15322-hgtv" stop="20261011173000 +0200">
+    <title>Někdo to rád tropické I (9)</title>
+    <desc>57% Děti jsou z domova, my na Bahamách
+Rodiče, jejichž děti už vyletěly z hnízda, se chtějí přestěhovat z Marylandu na Exumu na Bahamách a při práci</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011173000 +0200">
+    <title>Instagym</title>
+    <desc>HIIT Uper body 2</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="165-e!-entertainment" stop="20261011180000 +0200">
+    <title>Držte krok s Kardashians</title>
+    <desc>Kardashianovi v Japonsku
+Kim se v Japonsku snaží natočit celou kampaň pro Yeezy Season 7, ale bojí se, že módní vkus jejích sester by mohl debut ohrozit</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="1363-haha-tv" stop="20261011180000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="1148-mnau-tv" stop="20261011173000 +0200">
+    <title>Čas na svačinku</title>
+    <desc>Klidný a příjemný pořad, který vám zpříjemní den. Sledujte zvířata při jejich poklidných chvílích a chutných svačinkách</desc>
+  </programme>
+  <programme start="20261011170000 +0200" channel="1012-mnam-tv" stop="20261011173000 +0200">
+    <title>Veget s Klárkou (7)</title>
+    <desc>Vášní Kláry Hájkové je tanec, vaření a pečení. Ve své show vám ukáže, že i zdravé jídlo může být lahodné. Klárka vaří z části raw pokrmy a spoustu vegetariánských jídel</desc>
+  </programme>
+  <programme start="20261011165700 +0200" channel="15646-starmax-family" stop="20261011185300 +0200">
+    <title>Red (2)</title>
+    <desc>EPG PLAY Bývalý agent Frank Moses žije poklidný život po boku své přítelkyně Sarah a status nebezpečného důchodce hodil za hlavu. To se mu taky daří, dokud</desc>
+  </programme>
+  <programme start="20261011163600 +0200" channel="15588-starmax-comedy" stop="20261011180800 +0200">
+    <title>Úsměv, prosím!</title>
+    <desc>33% EPG PLAY Thierry je přesvědčen, že nejlepší dny má za sebou. Když mu manželka Claire oznámí, že ho opouští, je zdrcený a rozhodne se vzít rodinu do Řecka</desc>
+  </programme>
+  <programme start="20261011163400 +0200" channel="15663-ballcasterz" stop="20261011172700 +0200">
+    <title>JDEME VEN!</title>
+    <desc>Loučení s legendami!
+JDEME VEN 34 - 7.9 - 14.9</desc>
+  </programme>
+  <programme start="20261011163300 +0200" channel="15649-kviff.tv" stop="20261011182800 +0200">
+    <title>Stovky bobrů</title>
+    <desc>76% Zálesák, ten těžký život má. Nakažlivě originální groteska pro nové milénium vám svým nonstop vírem kreativních nápadů a zběsilého humoru vyrve bránici z těla</desc>
+  </programme>
+  <programme start="20261011163000 +0200" channel="1213-hobby-tv" stop="20261011173000 +0200">
+    <title>Jóga: energie života (8)</title>
+    <desc>Zhluboka se nadechněte a připravte se na opravdovou lekci jógy. Díky našemu pořadu pochopíte, co může jóga znamenat pro váš život a jak dokáže pozitivně ovlivnit každý den</desc>
+  </programme>
+  <programme start="20261011163000 +0200" channel="1148-mnau-tv" stop="20261011170000 +0200">
+    <title>Crazy, crazy, crazy</title>
+    <desc>Divoký pořad plný energie a zábavy! Sledujte bláznivé kousky zvířat, jejich hravou povahu a nečekané momenty, které vás rozesmějí</desc>
+  </programme>
+  <programme start="20261011163000 +0200" channel="15322-hgtv" stop="20261011170000 +0200">
+    <title>Hledáme bydlení: Ráj I (14)</title>
+    <desc>67% Roll Tide na Maui
+Jeden pár se stěhuje z Alabamy na havajský ostrov Maui. Hledá dům s výhledem na oceán a oplocenou zahradou pro své čtyři psy</desc>
+  </programme>
+  <programme start="20261011163000 +0200" channel="1012-mnam-tv" stop="20261011170000 +0200">
+    <title>Tak chutná Itálie (5)</title>
+    <desc>Orvieto
+V umbrijském kraji ve městě Orvieto vyzkouší Nisha Katona recept zvaný „gallina 'mbriaca“, což v překladu znamená opilé kuře. Dále se v dnešním</desc>
+  </programme>
+  <programme start="20261011163000 +0200" channel="1022-history2" stop="20261011171500 +0200">
+    <title>Lost Relic Hunters</title>
+    <desc>Pilgrim Warriors
+In Hamilton’s possession is a wooden chest stuffed full of relics from medieval Christian pilgrimages. These include clamshell pendants</desc>
+  </programme>
+  <programme start="20261011163000 +0200" channel="1246-red-bull-tv" stop="20261011180000 +0200">
+    <title>Živý přenos závodu mužů: Red Bull Rampage</title>
+    <desc>Red Bull Rampage 2026
+Nejlepší freeridoví MTB jezdci světa se vracejí do Utahu, kde je čeká souboj o vítězství v jednom z nejnáročnějších terénů na světě</desc>
+  </programme>
+  <programme start="20261011162400 +0200" channel="15471-skvele-tv" stop="20261011175000 +0200">
+    <title>V Umení</title>
+    <desc>Výroba trofeje
+Zdá sa vám svet umenia neprístupný? Opak je pravdou. V umení sa môžte nájsť aj vy. Ak máte záujem, sledujte ako na to</desc>
+  </programme>
+  <programme start="20261011161600 +0200" channel="1246-red-bull-tv" stop="20261011163000 +0200">
+    <title>Red Bull Soapbox Race II (6)</title>
+    <desc>2019's top car designs
+A reversing caravan, a bang-on tribute to Mr Bean and one very wobbly pinata took home 2019's gold stars</desc>
+  </programme>
+  <programme start="20261011161500 +0200" channel="15663-ballcasterz" stop="20261011163400 +0200">
+    <title>Vždycky budou hodnotit naše těla</title>
+    <desc>VLF 39 7. 10. - 31. 10. 2026</desc>
+  </programme>
+  <programme start="20261011160500 +0200" channel="15505-story4-(cz)" stop="20261011174000 +0200">
+    <title>Algoritmus lásky</title>
+    <desc />
+  </programme>
+  <programme start="20261011160500 +0200" channel="165-e!-entertainment" stop="20261011170000 +0200">
+    <title>Držte krok s Kardashians</title>
+    <desc>Americká modelka v Paříži
+Kourtney je rozzuřená, když Kim prozradí rodině její osobní informace. Kendall si mezitím užívá bláznivý výlet do Paříže</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011170000 +0200">
+    <title>Power joga</title>
+    <desc>11. tréning</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="15403-volant.tv" stop="20261011170000 +0200">
+    <title>Videoblog volant.tv</title>
+    <desc>Audi RS Q8, DS 3 Crossback e-tense, Internetové podvody s autami</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="15680-vantage-music" stop="20261011170000 +0200">
+    <title>Alternative Classics</title>
+    <desc>A collection of iconic alternative, indie, and grunge music videos</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="1363-haha-tv" stop="20261011170000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="1246-red-bull-tv" stop="20261011161600 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011160000 +0200" channel="15472-park-tv" stop="20261011170000 +0200">
+    <title>Zvieratá v pohybe</title>
+    <desc>Príbehy zvierat v priamom prenose a úplne naživo</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="1012-mnam-tv" stop="20261011163000 +0200">
+    <title>Láďův Orient Express (12)</title>
+    <desc>Tvář show Orient Express, Láďa Dvořák, je chlapík z krkonošského Vrchlabí. Ve své show se s vámi dělí o ty nejlepší recepty a vychytávky při přípravě</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="1148-mnau-tv" stop="20261011163000 +0200">
+    <title>Mláďátkov</title>
+    <desc>Roztomilý pořad plný mláďátek a jejich prvních krůčků. Sledujte nejhezčí chvíle z života mláďat, které vám vykouzlí úsměv na tváři</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="1213-hobby-tv" stop="20261011163000 +0200">
+    <title>Brent Owens objevuje Mauricius (10)</title>
+    <desc>Australský kuchař Brent Owens přijíždí na ostrov Mauricius objevovat místních potraviny, nové chutě a hlavně zažít velké dobrodružství</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="15651-tv-nr-sr" stop="20261011170000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="15322-hgtv" stop="20261011163000 +0200">
+    <title>Hledáme bydlení: Ráj I (13)</title>
+    <desc>67% Návrat k přírodě v Mexiku
+Pár, který se seznámil ve Španělsku, chce vyměnit Madrid za pobřeží Oaxacy v Mexiku. Hledá dům využívající přírodní a místní materiály</desc>
+  </programme>
+  <programme start="20261011160000 +0200" channel="15683-vantage-classic" stop="20261011180000 +0200">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists</desc>
+  </programme>
+  <programme start="20261011155500 +0200" channel="15474-noe+" stop="20261011171000 +0200">
+    <title>Outdoor Films s Marcelou Krplovou (76)</title>
+    <desc>Uganda, Rwanda 
+Až do vzdálené střední a východní Afriky s podnikatelkou, cestovatelkou a nadšenou sportovkyní</desc>
+  </programme>
+  <programme start="20261011155100 +0200" channel="1246-red-bull-tv" stop="20261011160000 +0200">
+    <title>Red Bull Flugtag II (6)</title>
+    <desc>Hong Kong
+Some of the world’s most creative aircraft soar at Victoria Harbour in Hong Kong for Red Bull Flugtag</desc>
+  </programme>
+  <programme start="20261011154500 +0200" channel="1022-history2" stop="20261011163000 +0200">
+    <title>Roswell: The First Witness (2)</title>
+    <desc>75% The Journal
+A cryptic journal sparks an unprecedented investigation into whether a UFO crashed at Roswell, NM in (1947). What actually crashed there? The US government claimed it was a weather balloon. Others spoke of alien bodies, and government intimidation</desc>
+  </programme>
+  <programme start="20261011153500 +0200" channel="15646-starmax-family" stop="20261011165700 +0200">
+    <title>Jako z divokých vajec</title>
+    <desc>64% EPG PLAY V Kastilském království se po korunovaci nového krále a královny probouzejí temné síly. Sedm královských mláďat je uneseno</desc>
+  </programme>
+  <programme start="20261011153100 +0200" channel="15647-starmax-cz-sk" stop="20261011171700 +0200">
+    <title>Banger.</title>
+    <desc>67% EPG PLAY Alex má nejlepší kokain v Praze, rozhodne se ale s dealováním seknout. Prodej mu sice vydělal na luxusní oblečení, jako začínající rapper</desc>
+  </programme>
+  <programme start="20261011153000 +0200" channel="1012-mnam-tv" stop="20261011160000 +0200">
+    <title>Annabel Langbein: U mě na zahrádce (26)</title>
+    <desc>Kuchařka a spisovatelka Annabel Langbeinová vás zve na Nový Zéland, do své idylické chaty na břehu jezera Wanaka, kde připravuje jednoduchá, zdravá</desc>
+  </programme>
+  <programme start="20261011153000 +0200" channel="1148-mnau-tv" stop="20261011160000 +0200">
+    <title>Mňauzoo</title>
+    <desc>Objevte fascinující svět zvířat v pořadu plném pohody a zábavy. Sledujte, jak různá zvířata žijí, hrají si a poznávají svět</desc>
+  </programme>
+  <programme start="20261011153000 +0200" channel="1213-hobby-tv" stop="20261011160000 +0200">
+    <title>Vitální zahrada (6)</title>
+    <desc>Jste nováčci v zahradničení a chtěli byste se naučit, jak správně pečovat o rostliny? Z pořadu Vitální zahrada si odnesete spoustu rad a tipů</desc>
+  </programme>
+  <programme start="20261011153000 +0200" channel="15403-volant.tv" stop="20261011160000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Hrubiš- BMW M5 CS</desc>
+  </programme>
+  <programme start="20261011153000 +0200" channel="15322-hgtv" stop="20261011160000 +0200">
+    <title>Najít své hnízdečko I (4)</title>
+    <desc>41% Syndrom vybíravého hnízda
+Po narození prvního dítěte je pár připraven nastěhovat se do startovacího domu na Long Islandu. Chtějí velkou jídelnu a velké apartmá</desc>
+  </programme>
+  <programme start="20261011153000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011160000 +0200">
+    <title>Gymnastická akadémia</title>
+    <desc>03- trampolína- ako správne skákať, základné cviky</desc>
+  </programme>
+  <programme start="20261011152500 +0200" channel="1246-red-bull-tv" stop="20261011155100 +0200">
+    <title>Reel Rock IX (6)</title>
+    <desc>House of the gods part 1
+Leo Houlding, Anna Taylor and Waldo Etherington attempt a new route up Mount Roraima in the Amazonian Jungle</desc>
+  </programme>
+  <programme start="20261011151000 +0200" channel="1012-mnam-tv" stop="20261011153000 +0200">
+    <title>Moje zahrada (31)</title>
+    <desc>Marči Borbáš ukazuje, jak se postarat o zahradu a jak zužitkovat její plody v kuchyni</desc>
+  </programme>
+  <programme start="20261011151000 +0200" channel="165-e!-entertainment" stop="20261011160500 +0200">
+    <title>Zpackané operace</title>
+    <desc>A je po všem
+Matka samoživitelka zoufale žádá o pomoc doktora Nassifa poté, co ji kousnutí psem připravilo o špičku nosu. Král BBL usiluje o mikrominimální pas</desc>
+  </programme>
+  <programme start="20261011150500 +0200" channel="15471-skvele-tv" stop="20261011162400 +0200">
+    <title>Mozaika umenia</title>
+    <desc>V Pohybe
+TV SKVELE si pre vás pripravilo novú talkshow. MOZAIKA UMENIA, to sú zaujímaví hostia, hudobné predstavenia, bláznivé úlohy a mnoho ďalšieho</desc>
+  </programme>
+  <programme start="20261011150500 +0200" channel="15474-noe+" stop="20261011155500 +0200">
+    <title>Cesta k andělům</title>
+    <desc>Ivan Hubač - scenárista a dramaturg 
+Otakáro Maria Schmidt a jeho talkshow – Cesta k andělům. Ivan Hubač je český scenárista, dramaturg a autor rozhlasových her</desc>
+  </programme>
+  <programme start="20261011150000 +0200" channel="1022-history2" stop="20261011154500 +0200">
+    <title>MonsterQuest</title>
+    <desc>The Last Dinosaur
+Worldwide, there have been hundreds of mysterious sightings spanning many centuries. Throughout history, these sightings have spawned countless stories</desc>
+  </programme>
+  <programme start="20261011150000 +0200" channel="15680-vantage-music" stop="20261011160000 +0200">
+    <title>Brand:new</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!)</desc>
+  </programme>
+  <programme start="20261011150000 +0200" channel="15651-tv-nr-sr" stop="20261011160000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011150000 +0200" channel="1246-red-bull-tv" stop="20261011152500 +0200">
+    <title>Reel Rock IX (4)</title>
+    <desc>DNA
+Francouzský fenomén Seb Bouin zdolává možná nejtěžší sportovní výstup na světě v soutěsce Verdon</desc>
+  </programme>
+  <programme start="20261011150000 +0200" channel="1363-haha-tv" stop="20261011160000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011150000 +0200" channel="15322-hgtv" stop="20261011153000 +0200">
+    <title>Najít své hnízdečko I (3)</title>
+    <desc>41% Mladé a nadšené páry novomanželů mají za sebou pohádkovou svatbu a nyní si musí společně najít vysněné bydlení. Ale podaří se jim dohodnout?</desc>
+  </programme>
+  <programme start="20261011150000 +0200" channel="1148-mnau-tv" stop="20261011153000 +0200">
+    <title>Psí dobrodružství</title>
+    <desc>Zábavný pořad plný psích příběhů a radosti. Sledujte úžasné okamžiky ze života psů, jejich hravost a věrnost, které vás zahřejí u srdce</desc>
+  </programme>
+  <programme start="20261011150000 +0200" channel="15681-vantage-dance" stop="20261011180000 +0200">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+  </programme>
+  <programme start="20261011150000 +0200" channel="15472-park-tv" stop="20261011160000 +0200">
+    <title>Zvieratá v pohybe</title>
+    <desc>Príbehy zvierat v priamom prenose a úplne naživo</desc>
+  </programme>
+  <programme start="20261011145800 +0200" channel="15649-kviff.tv" stop="20261011163300 +0200">
+    <title>Zázračný aparát</title>
+    <desc>69% Od camery obscury přes televizi a film až po kulturu selfie a nonstop živého streamování</desc>
+  </programme>
+  <programme start="20261011145700 +0200" channel="15663-ballcasterz" stop="20261011161500 +0200">
+    <title>Půlka Sigmy zrychlila. Speciál HT (38)</title>
+    <desc>HT 38</desc>
+  </programme>
+  <programme start="20261011144600 +0200" channel="15663-ballcasterz" stop="20261011145700 +0200">
+    <title>Zajícův vlog z Kongresového centra</title>
+    <desc>Kongresak vlog</desc>
+  </programme>
+  <programme start="20261011144500 +0200" channel="15680-vantage-music" stop="20261011150000 +0200">
+    <title>3 From 1</title>
+    <desc>Featuring three theme connected tracks or three from one artist</desc>
+  </programme>
+  <programme start="20261011144200 +0200" channel="15588-starmax-comedy" stop="20261011163600 +0200">
+    <title>Loganovi parťáci</title>
+    <desc>70% EPG PLAY V jedné ze svých nejslavnějších písní zpívá John Denver o Západní Virginii jako o matce řek a hor, většina Američanů ji ovšem má za největší Snímek Loganovi parťáci (2017)</desc>
+  </programme>
+  <programme start="20261011143400 +0200" channel="1246-red-bull-tv" stop="20261011150000 +0200">
+    <title>Reel Rock IX (3)</title>
+    <desc>Burning the flame part 2
+Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window</desc>
+  </programme>
+  <programme start="20261011143000 +0200" channel="15505-story4-(cz)" stop="20261011160500 +0200">
+    <title>Severské vraždy II (2)</title>
+    <desc />
+  </programme>
+  <programme start="20261011143000 +0200" channel="15403-volant.tv" stop="20261011153000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Dominic cars- Opel Zafira e, Dominic Cars- Škoda Octavia RS</desc>
+  </programme>
+  <programme start="20261011143000 +0200" channel="15322-hgtv" stop="20261011150000 +0200">
+    <title>Najít své hnízdečko I (2)</title>
+    <desc>41% Sny o Vegas
+Novomanželé se chtějí odstěhovat z jeho staromládeneckého bytu a usadit se v nablýskaném Las Vegas. Mají slušný rozpočet 1 milion dolarů</desc>
+  </programme>
+  <programme start="20261011143000 +0200" channel="1148-mnau-tv" stop="20261011150000 +0200">
+    <title>Kočičí svět</title>
+    <desc>Pořad plný kočičí elegance, hravosti a kouzla. Užijte si úžasné momenty ze života koček, které vás okouzlí a pobaví</desc>
+  </programme>
+  <programme start="20261011143000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011153000 +0200">
+    <title>Power joga</title>
+    <desc>9. tréning</desc>
+  </programme>
+  <programme start="20261011143000 +0200" channel="1213-hobby-tv" stop="20261011153000 +0200">
+    <title>Útěk na venkov (6)</title>
+    <desc>Lincolnshire
+Hledání dokonalých nových domovů pro rodiny, které chtějí uniknout městskému způsobu života</desc>
+  </programme>
+  <programme start="20261011142500 +0200" channel="15474-noe+" stop="20261011150500 +0200">
+    <title>Mladí mladým - Symfonie č. 84 Es dur</title>
+    <desc>Svatováclavský hudební festival 2022 
+Záznam části koncertu z kostela sv. Václava. V rámci Svatováclavského hudebního festivalu 2022 zaznělo dílo Josepha</desc>
+  </programme>
+  <programme start="20261011141500 +0200" channel="15471-skvele-tv" stop="20261011150500 +0200">
+    <title>V Remesle</title>
+    <desc>Zlatníci z Banskej Štiavnice
+Ak chcete spoznať tých, čo sa našli v remesle, sledujte čo dokážu. Možno sa v remesle nájdete aj vy. Inšpirujte sa a nemajte strach začať</desc>
+  </programme>
+  <programme start="20261011141500 +0200" channel="165-e!-entertainment" stop="20261011151000 +0200">
+    <title>Zpackané operace</title>
+    <desc>Kolo neštěstí
+Vdova, jež po operaci břicha málem třikrát zemřela, vyhledá odbornou pomoc doktora Dubrowa, aby se zbavila toho, čemu říká „Vaginální ostrov“</desc>
+  </programme>
+  <programme start="20261011141500 +0200" channel="1022-history2" stop="20261011150000 +0200">
+    <title>Ancient Aliens</title>
+    <desc>They Came From the Sky
+Ancient cultures from around the world believed that meteorites were sacred stones imbued with the power of the Gods</desc>
+  </programme>
+  <programme start="20261011141200 +0200" channel="15647-starmax-cz-sk" stop="20261011153100 +0200">
+    <title>Ukradený stát</title>
+    <desc>58% EPG PLAY Třicet let od listopadu 1989 se zejména v post-socialistickém bloku začínají projevovat demokratické deficity i větší či menší kritické propady právního státu</desc>
+  </programme>
+  <programme start="20261011141000 +0200" channel="1246-red-bull-tv" stop="20261011143400 +0200">
+    <title>Reel Rock IX (2)</title>
+    <desc>Burning the flame part 1
+Elite power duo Babsi and Jacopo attempt a coveted free ascent of the Nameless Tower in Pakistan</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011143000 +0200">
+    <title>Yoga with Maťka</title>
+    <desc>Bali poweryoga flow</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="15472-park-tv" stop="20261011150000 +0200">
+    <title>Zvieratá v pohybe</title>
+    <desc>Príbehy zvierat v priamom prenose a úplne naživo</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="1148-mnau-tv" stop="20261011143000 +0200">
+    <title>Čas odpočinku</title>
+    <desc>Relaxační pořad plný klidu a pohody. Užijte si nádherné záběry zvířat v jejich domácím prostředí a chvíle harmonie, které vás zbaví stresu</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="15682-vantage-rock" stop="20261011170000 +0200">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="1363-haha-tv" stop="20261011150000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="15322-hgtv" stop="20261011143000 +0200">
+    <title>Najít své hnízdečko I (1)</title>
+    <desc>41% Čas opustit hnízdo
+Novomanželé se po pohádkové svatbě chystají nastěhovat do svého vysněného domu. Chtějí bazén a on chce mužskou jeskyni, ale má pevně daný rozpočet</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="1246-red-bull-tv" stop="20261011141000 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011140000 +0200" channel="15651-tv-nr-sr" stop="20261011150000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="15474-noe+" stop="20261011142500 +0200">
+    <title>Náš dům v kosmu - ekologie a bioetika (7)</title>
+    <desc>Autor a průvodce Marek Orko Vácha 
+I. Etika ochrany přírody. 7. díl Geneticky modifikované organismy</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="1012-mnam-tv" stop="20261011151000 +0200">
+    <title>Vlasatí motorkáři - Asijské dobrodružství (4)</title>
+    <desc>Japonsko – Tokio
+Japonská kuchyně je u Vlasatých motorkářů nejoblíbenější kuchyní všech dob a nyní naplňují celoživotní ambice navštívit tuto neuvěřitelnou zemi</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="15683-vantage-classic" stop="20261011160000 +0200">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby</desc>
+  </programme>
+  <programme start="20261011140000 +0200" channel="15403-volant.tv" stop="20261011143000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Dominic cars- Opel insignia</desc>
+  </programme>
+  <programme start="20261011135800 +0200" channel="15646-starmax-family" stop="20261011153500 +0200">
+    <title>Boss Level</title>
+    <desc>68% EPG PLAY Vysloužilý člen speciálních jednotek se ocitá v časové smyčce, v níž musí znovu a znovu prožívat den své smrti</desc>
+  </programme>
+  <programme start="20261011134700 +0200" channel="1246-red-bull-tv" stop="20261011140000 +0200">
+    <title>Reel Rock IX (1)</title>
+    <desc>Smile and fight
+Can big wall climber Natalia Grossman handle the pressure of defending her IFSC World Cup Champion title?</desc>
+  </programme>
+  <programme start="20261011134000 +0200" channel="15474-noe+" stop="20261011140000 +0200">
+    <title>Zachraňme kostely</title>
+    <desc>Kostel sv. Petra a Pavla v Bernarticích 
+Dokumentární cyklus představuje proces obnovy zdevastovaných chrámů. Kostel sv. Petra a Pavla v Bernarticích</desc>
+  </programme>
+  <programme start="20261011133000 +0200" channel="1022-history2" stop="20261011141500 +0200">
+    <title>The Unxplained With William Shatner</title>
+    <desc>The Oak Island Curse
+Could a cache of fantastic riches have been buried centuries ago on a tiny island in the North Atlantic? And if such a treasure</desc>
+  </programme>
+  <programme start="20261011133000 +0200" channel="1012-mnam-tv" stop="20261011140000 +0200">
+    <title>Jamie po italsku (1)</title>
+    <desc>Šéfkuchař Jamie Oliver cestuje po Itálii a prozkoumává různé nuance italské kuchyně. Učí se přitom od skutečných mistrů i místních obyvatel</desc>
+  </programme>
+  <programme start="20261011133000 +0200" channel="1148-mnau-tv" stop="20261011140000 +0200">
+    <title>Crazy, crazy, crazy</title>
+    <desc>Divoký pořad plný energie a zábavy! Sledujte bláznivé kousky zvířat, jejich hravou povahu a nečekané momenty, které vás rozesmějí</desc>
+  </programme>
+  <programme start="20261011133000 +0200" channel="15680-vantage-music" stop="20261011144500 +0200">
+    <title>Retro Charts</title>
+    <desc>From: 27th May 2007</desc>
+  </programme>
+  <programme start="20261011133000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011140000 +0200">
+    <title>Instagym</title>
+    <desc>HIIT Uper body 2</desc>
+  </programme>
+  <programme start="20261011133000 +0200" channel="15505-story4-(cz)" stop="20261011143000 +0200">
+    <title>Sestra Angela a její boží děvčata I (1)</title>
+    <desc />
+  </programme>
+  <programme start="20261011133000 +0200" channel="1213-hobby-tv" stop="20261011143000 +0200">
+    <title>Blázen na cestách (1)</title>
+    <desc>Opuštěný ostrov
+Kdo by netoužil žít jen tak na zkoušku na pustém ostrově jako Robinson? No, vlastně to víme. Karl Pilkington si to opravdu nikdy nepřál</desc>
+  </programme>
+  <programme start="20261011132300 +0200" channel="1246-red-bull-tv" stop="20261011134700 +0200">
+    <title>Rob Warner’s Wild Rides I (4)</title>
+    <desc>Nepal
+Rob Warner and downhill pro Olly Wilkins ride around the world's tallest mountain range</desc>
+  </programme>
+  <programme start="20261011132000 +0200" channel="15471-skvele-tv" stop="20261011141500 +0200">
+    <title>V Remesle</title>
+    <desc>Tajomstvo fujary
+Ak chcete spoznať tých, čo sa našli v remesle, sledujte čo dokážu. Možno sa v remesle nájdete aj vy. Inšpirujte sa a nebojte sa začať</desc>
+  </programme>
+  <programme start="20261011132000 +0200" channel="15649-kviff.tv" stop="20261011145800 +0200">
+    <title>Earth</title>
+    <desc>Den na zázračné planetě
+Snímek z produkce BBC Earth Films, tvůrců Zázračné planety, představuje divákům všech věkových kategorií nezapomenutelné zvířecí hrdiny</desc>
+  </programme>
+  <programme start="20261011132000 +0200" channel="165-e!-entertainment" stop="20261011141500 +0200">
+    <title>Hollywoodské médium s Tylerem Henrym</title>
+    <desc>Terra Jolé, Lizzo, Howie Mandel
+Veselá hvězda seriálu „Little Women LA“ Terra Jolé se rozpláče, když Tyler přinese uznání od zesnulého otce, kterého zbožňovala</desc>
+  </programme>
+  <programme start="20261011130400 +0200" channel="15663-ballcasterz" stop="20261011144600 +0200">
+    <title>KUDY BĚŽÍ ZAJÍC (304)</title>
+    <desc>KBZ 304 6.10.-13.10</desc>
+  </programme>
+  <programme start="20261011130000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011133000 +0200">
+    <title>Power joga</title>
+    <desc>12. tréning</desc>
+  </programme>
+  <programme start="20261011130000 +0200" channel="1213-hobby-tv" stop="20261011133000 +0200">
+    <title>Lovec chilli (8)</title>
+    <desc>Japonsko
+Po přistání v Tokiu přihlíží Tyson Mayr přípravě speciální várky místního chilli koření „shimichi“, načež ho vyzkouší na nic netušící veřejnosti</desc>
+  </programme>
+  <programme start="20261011130000 +0200" channel="15472-park-tv" stop="20261011140000 +0200">
+    <title>Každodenný život zvierat</title>
+    <desc>Réžia programu je v rukách zvierat, ktoré sú zároveň hlavnými hrdinami príbehov. Nechajte sa prekvapiť s Park TV</desc>
+  </programme>
+  <programme start="20261011130000 +0200" channel="1148-mnau-tv" stop="20261011133000 +0200">
+    <title>Mláďátkov</title>
+    <desc>Roztomilý pořad plný mláďátek a jejich prvních krůčků. Sledujte nejhezčí chvíle z života mláďat, které vám vykouzlí úsměv na tváři</desc>
+  </programme>
+  <programme start="20261011130000 +0200" channel="15322-hgtv" stop="20261011140000 +0200">
+    <title>Činžák za babku IV (1)</title>
+    <desc>88% Rozpadající se domek
+Keith Bynum a Evan Thomas úspěšně usměrní venkovskou estetiku a promění opuštěný dům v útulný domek snů</desc>
+  </programme>
+  <programme start="20261011130000 +0200" channel="15680-vantage-music" stop="20261011133000 +0200">
+    <title>The 20's</title>
+    <desc>Playing nothing but songs from the current decade and fresh releases</desc>
+  </programme>
+  <programme start="20261011130000 +0200" channel="15403-volant.tv" stop="20261011140000 +0200">
+    <title>Príbehy áut volant.tv</title>
+    <desc>Saab 96, Porsche boxster 311, Fiat Panda, Škoda 110R, Smart Crossblade</desc>
+  </programme>
+  <programme start="20261011130000 +0200" channel="15651-tv-nr-sr" stop="20261011140000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011130000 +0200" channel="1012-mnam-tv" stop="20261011133000 +0200">
+    <title>Škola vaření s Marthou Stewartovou (8)</title>
+    <desc>Pořad inspirovaný stejnojmenným bestsellerem, poskytne domácím kuchařům mistrovský kulinářský kurz. Ukáže, jak na pečení a pošírování až po dušení a blanšírování</desc>
+  </programme>
+  <programme start="20261011130000 +0200" channel="1363-haha-tv" stop="20261011140000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011125900 +0200" channel="1246-red-bull-tv" stop="20261011132300 +0200">
+    <title>Rob Warner’s Wild Rides I (1)</title>
+    <desc>Kenya
+Rob Warner a withprofesionální freerider Matt Jones se vydali do Keni, aby sjeli nejvyšší horu Mount Kenya</desc>
+  </programme>
+  <programme start="20261011125100 +0200" channel="15588-starmax-comedy" stop="20261011144200 +0200">
+    <title>Villa Lucia</title>
+    <desc>37% EPG PLAY V komedii Villa Lucia se sejdou tři kámoši, které spojuje vzpomínka na jejich nejkrásnější spolužačku ze střední školy, na úchvatnou Lucii</desc>
+  </programme>
+  <programme start="20261011124500 +0200" channel="1022-history2" stop="20261011133000 +0200">
+    <title>UFO Files: Deep Sea Ufo's</title>
+    <desc>Red Alert
+In this hour, we'll dive deeper into the ongoing mystery of USOs, Underwater Submerged Objects, UFOs that have reportedly been witnessed going</desc>
+  </programme>
+  <programme start="20261011123500 +0200" channel="15505-story4-(cz)" stop="20261011133000 +0200">
+    <title>Sestra Angela a její boží děvčata I (16)</title>
+    <desc />
+  </programme>
+  <programme start="20261011123500 +0200" channel="15646-starmax-family" stop="20261011135800 +0200">
+    <title>Ozi</title>
+    <desc>Hlas pralesa
+EPG PLAY Ozi, zvídavá a odvážná orangutanka, žije spokojený život v deštném pralese se svými rodiči Seemou a JoJoem. Vše se změní ve chvíli</desc>
+  </programme>
+  <programme start="20261011123000 +0200" channel="1246-red-bull-tv" stop="20261011125900 +0200">
+    <title>Shapes in the City</title>
+    <desc>A surrealist BMX photo project comes to life
+Meet South African rider Murray Loubser and get a look at the team that brought this project to life</desc>
+  </programme>
+  <programme start="20261011123000 +0200" channel="15403-volant.tv" stop="20261011130000 +0200">
+    <title>Testy jazdených áut</title>
+    <desc>Startstop- AAA Auto Škoda Superb 2FL 2013, Dominic cars- Renault Thalia</desc>
+  </programme>
+  <programme start="20261011123000 +0200" channel="1213-hobby-tv" stop="20261011130000 +0200">
+    <title>Mega World: Svět očima Číny II. (8)</title>
+    <desc>Co se událo za dobu existence Nové hedvábné stezky! Vydejte se s námi za poznáním pozoruhodných technických projektů, které od roku 2013 formují svět</desc>
+  </programme>
+  <programme start="20261011123000 +0200" channel="1148-mnau-tv" stop="20261011130000 +0200">
+    <title>Mňauzoo</title>
+    <desc>Objevte fascinující svět zvířat v pořadu plném pohody a zábavy. Sledujte, jak různá zvířata žijí, hrají si a poznávají svět</desc>
+  </programme>
+  <programme start="20261011123000 +0200" channel="15647-starmax-cz-sk" stop="20261011141200 +0200">
+    <title>Strnadovi</title>
+    <desc>75% EPG PLAY Během 35 let společného soužití jednoho páru se odehraje mnohé: od chvil absolutního porozumění až po dramatické propady</desc>
+  </programme>
+  <programme start="20261011123000 +0200" channel="15471-skvele-tv" stop="20261011132000 +0200">
+    <title>V Rukách vyrobené</title>
+    <desc>Výroba ruženca
+Veci v rukách vyrobené, majú pre nás často tú najväčšiu hodnotu. A pre niektorých to je vášnivý koníček. Pridajte sa aj Vy</desc>
+  </programme>
+  <programme start="20261011123000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011130000 +0200">
+    <title>Fitrecepty</title>
+    <desc />
+  </programme>
+  <programme start="20261011122500 +0200" channel="165-e!-entertainment" stop="20261011132000 +0200">
+    <title>Hollywoodské médium s Tylerem Henrym</title>
+    <desc>Rebel Wilson, Chris Harrison, Sofia Vergara
+Premiéra čtvrté série se nese ve znamení hvězdného Tylera Henryho, který otevírá dveře hvězdě filmu „Pitch</desc>
+  </programme>
+  <programme start="20261011120500 +0200" channel="15474-noe+" stop="20261011134000 +0200">
+    <title>Hrajže mi, muzička, hrajže mi hraj - Terchovský galaprogram</title>
+    <desc>Jánošíkove dni v Terchovej 2024 
+Přenos Terchovskeho galaprogramu z amfiteátru Nad Bôrami v rámci MFF Jánošíkove dni v Terchove 2024</desc>
+  </programme>
+  <programme start="20261011120200 +0200" channel="15663-ballcasterz" stop="20261011130400 +0200">
+    <title>Podcast čtyř největších českých klubů</title>
+    <desc>TOP4 68 - 7.10.-14.10</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="1363-haha-tv" stop="20261011130000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="15683-vantage-classic" stop="20261011140000 +0200">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!)</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="1022-history2" stop="20261011124500 +0200">
+    <title>The Best of MonsterQuest</title>
+    <desc>Mystery Of The Chupacabra
+Something strange is killing animals and sucking the blood from its victims. Is this creature the mysterious Chupacabra</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="15403-volant.tv" stop="20261011123000 +0200">
+    <title>Testy jazdených áut</title>
+    <desc>Hrubiš- Porsche Cayenne diesel, Honda HRV bazar, Startstop- Passat AAA</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="15322-hgtv" stop="20261011130000 +0200">
+    <title>Činžák za babku III (10)</title>
+    <desc>88% Keith Bynum a Evan Thomas kupují zchátralé a opuštěné nemovitosti v Detroitu a přetvářejí je na cenově dostupné a stylové startovací domy pro začínající</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="1012-mnam-tv" stop="20261011130000 +0200">
+    <title>Vlasatí motorkáři - Kuřecí hody (5)</title>
+    <desc>Izrael
+Vlasatí motorkáři hledají ty nejlepší recepty na světě na kuřecí maso a vejce</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="15651-tv-nr-sr" stop="20261011130000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="1246-red-bull-tv" stop="20261011123000 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011120000 +0200" channel="15680-vantage-music" stop="20261011130000 +0200">
+    <title>The 10's</title>
+    <desc>The decade of an explosive rise in EDM and viral streaming videos, we explore what the 2010 decade offered in music</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="15472-park-tv" stop="20261011130000 +0200">
+    <title>Každodenný život zvierat</title>
+    <desc>Réžia programu je v rukách zvierat, ktoré sú zároveň hlavnými hrdinami príbehov. Nechajte sa prekvapiť s Park TV</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="1213-hobby-tv" stop="20261011123000 +0200">
+    <title>Dům v novém kabátě (2)</title>
+    <desc>Realitní guru Mike Pero a špičkový krajinářský designér Justin Newcombe přepracovávají fasády domů a tím naprosto mění jejich tržní hodnotu</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="1148-mnau-tv" stop="20261011123000 +0200">
+    <title>Psí dobrodružství</title>
+    <desc>Zábavný pořad plný psích příběhů a radosti. Sledujte úžasné okamžiky ze života psů, jejich hravost a věrnost, které vás zahřejí u srdce</desc>
+  </programme>
+  <programme start="20261011120000 +0200" channel="15681-vantage-dance" stop="20261011150000 +0200">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+  </programme>
+  <programme start="20261011115400 +0200" channel="1246-red-bull-tv" stop="20261011120000 +0200">
+    <title>Past, Present, Future</title>
+    <desc>The rise of downhill prodigy Vali Höll
+Vali Höll steps up to elite level, after a dominant junior career. How will she fare against the world’s best?</desc>
+  </programme>
+  <programme start="20261011115000 +0200" channel="1012-mnam-tv" stop="20261011120000 +0200">
+    <title>BRGRS (43)</title>
+    <desc>Pořad plný šťavnatých burgerů, originálních receptů a tipů, jak si připravit ten nejlepší burger doma i na grilu</desc>
+  </programme>
+  <programme start="20261011114800 +0200" channel="15471-skvele-tv" stop="20261011123000 +0200">
+    <title>V Rukách vyrobené</title>
+    <desc>Výroba postavičiek pre rozprávkový svet.
+Veci v rukách vyrobené, majú pre nás často tú najväčšiu hodnotu. A pre niektorých to je vášnivý koníček. Pridajte sa aj Vy</desc>
+  </programme>
+  <programme start="20261011113500 +0200" channel="15505-story4-(cz)" stop="20261011123500 +0200">
+    <title>Sestra Angela a její boží děvčata I (15)</title>
+    <desc />
+  </programme>
+  <programme start="20261011113000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011123000 +0200">
+    <title>Power joga</title>
+    <desc>11. tréning</desc>
+  </programme>
+  <programme start="20261011113000 +0200" channel="165-e!-entertainment" stop="20261011122500 +0200">
+    <title>Držte krok s Kardashians</title>
+    <desc>Dokonalá Stormi
+Kourtney se hádá s matkou kvůli problémům z minulosti, Khloé je zdrcena nečekanou ztrátou a Kylie vítá své první dítě</desc>
+  </programme>
+  <programme start="20261011113000 +0200" channel="15403-volant.tv" stop="20261011120000 +0200">
+    <title>Štúdio volant.tv</title>
+    <desc />
+  </programme>
+  <programme start="20261011113000 +0200" channel="1148-mnau-tv" stop="20261011120000 +0200">
+    <title>Kočičí svět</title>
+    <desc>Pořad plný kočičí elegance, hravosti a kouzla. Užijte si úžasné momenty ze života koček, které vás okouzlí a pobaví</desc>
+  </programme>
+  <programme start="20261011112900 +0200" channel="1246-red-bull-tv" stop="20261011115400 +0200">
+    <title>The Comeback</title>
+    <desc>Emil Johansson se vrací!
+Emil Johansson strávil rok 2018 bojem s autoimunitním onemocněním, ale díky své vůli se nevzdal a letos je připravený na velký návrat</desc>
+  </programme>
+  <programme start="20261011112300 +0200" channel="15663-ballcasterz" stop="20261011120200 +0200">
+    <title>Na palubovce (03)</title>
+    <desc>Adam Knobloch
+NP 03 - 26.9.-30.10</desc>
+  </programme>
+  <programme start="20261011112000 +0200" channel="15588-starmax-comedy" stop="20261011125100 +0200">
+    <title>Moje tlustá řecká svatba</title>
+    <desc>66% EPG PLAY Je jí třicet, je svobodná, má kila navíc a úžasnou rodinu! . Nemožné se stalo skutečností a film, který stál jenom pět milionů amerických dolarů</desc>
+  </programme>
+  <programme start="20261011111500 +0200" channel="1022-history2" stop="20261011120000 +0200">
+    <title>Digging For The Truth</title>
+    <desc>Giants of Patagonia
+Many explorers throughout the centuries, including the great Ferdinand Magellan, visited the region in South America now known</desc>
+  </programme>
+  <programme start="20261011111000 +0200" channel="15474-noe+" stop="20261011120500 +0200">
+    <title>Bohém s Bohem</title>
+    <desc>Lucie Žáčková 
+Herečka Sarah Haváčová si do studia zve hosty, s kterými si povídá o zkušenostech života víry</desc>
+  </programme>
+  <programme start="20261011111000 +0200" channel="15471-skvele-tv" stop="20261011114800 +0200">
+    <title>V Pohybe</title>
+    <desc>Európsky pohár vo vodnom lyžovaní
+Pohyb ako koníček má veľa možností. Pozrite sa na to, ako trávia čas v pohybe niektorí nadšenci. Niečo z toho možno skúsite aj vy</desc>
+  </programme>
+  <programme start="20261011110800 +0200" channel="15646-starmax-family" stop="20261011123500 +0200">
+    <title>Cesta do Palomy</title>
+    <desc>60% Cesta do Palomy - Titulky</desc>
+  </programme>
+  <programme start="20261011110500 +0200" channel="1246-red-bull-tv" stop="20261011112900 +0200">
+    <title>Rob Warner’s Wild Rides I (3)</title>
+    <desc>Ecuador
+Rob Warner travels to Ecuador with rising mountain biking star Finn Iles to take on the Cotopaxi in the Andes</desc>
+  </programme>
+  <programme start="20261011110000 +0200" channel="15322-hgtv" stop="20261011120000 +0200">
+    <title>Rekreační objekt zdarma I (12)</title>
+    <desc>Pouštní sen
+Odborník v oblasti nemovitostí Matt Blashaw pomáhá párům najít a získat rekreační objekty. Ukáže jim, jak maximalizovat jejich pronájem</desc>
+  </programme>
+  <programme start="20261011110000 +0200" channel="1363-haha-tv" stop="20261011120000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011110000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011113000 +0200">
+    <title>Power joga</title>
+    <desc>Dýchanie v power joge</desc>
+  </programme>
+  <programme start="20261011110000 +0200" channel="15680-vantage-music" stop="20261011120000 +0200">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists</desc>
+  </programme>
+  <programme start="20261011110000 +0200" channel="15472-park-tv" stop="20261011120000 +0200">
+    <title>Zvieratá pod drobnohľadom</title>
+    <desc>Príbehy zvierat v priamom prenose a úplne naživo</desc>
+  </programme>
+  <programme start="20261011110000 +0200" channel="15651-tv-nr-sr" stop="20261011120000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011110000 +0200" channel="15403-volant.tv" stop="20261011113000 +0200">
+    <title>Štúdio volant.tv</title>
+    <desc>Zdeno Luknár</desc>
+  </programme>
+  <programme start="20261011110000 +0200" channel="1213-hobby-tv" stop="20261011120000 +0200">
+    <title>House doktor (9)</title>
+    <desc>Na dnešním trhu s bydlením existuje výrazný kontrast mezi domy, které se prodávají za okamžik, a těmi, které na trhu leží stranou</desc>
+  </programme>
+  <programme start="20261011110000 +0200" channel="15682-vantage-rock" stop="20261011140000 +0200">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking</desc>
+  </programme>
+  <programme start="20261011110000 +0200" channel="1148-mnau-tv" stop="20261011113000 +0200">
+    <title>V kostýmu</title>
+    <desc>Zábavný pořad plný zvířecí roztomilosti a kreativity! Sledujte zvířata v originálních kostýmech, která vás pobaví i okouzlí</desc>
+  </programme>
+  <programme start="20261011104800 +0200" channel="15647-starmax-cz-sk" stop="20261011123000 +0200">
+    <title>Slet bubeníků (2010)</title>
+    <desc>EPG PLAY Léta pořádá Pavel Fajt koncertní slety světových bubeníků. Záznam show z Divadla Archa představuje vystoupení Miloše Vacíka, Alexe Papase</desc>
+  </programme>
+  <programme start="20261011104100 +0200" channel="1246-red-bull-tv" stop="20261011110500 +0200">
+    <title>Rob Warner’s Wild Rides I (2)</title>
+    <desc>Lesotho
+Mountain bikers Rob Warner and Matt Jones, head to Lesotho to experience a very different kind of racing</desc>
+  </programme>
+  <programme start="20261011104000 +0200" channel="15505-story4-(cz)" stop="20261011113500 +0200">
+    <title>Sestra Angela a její boží děvčata I (14)</title>
+    <desc />
+  </programme>
+  <programme start="20261011103500 +0200" channel="165-e!-entertainment" stop="20261011113000 +0200">
+    <title>Držte krok s Kardashians</title>
+    <desc>Milujeme Chicago
+Kim se připravuje na narození svého třetího dítěte, Khloé se snaží vybrat kmotru pro své dítě a Kourtney debutuje jako tanečnice ve flash mobu</desc>
+  </programme>
+  <programme start="20261011103400 +0200" channel="1246-red-bull-tv" stop="20261011104100 +0200">
+    <title>From Castle to Castle: Sleduj road trip ve formuli přes Česko a Slovensko</title>
+    <desc>Ikonické lokace a krásy Česka a Slovenska ve formuli Red Bull Racing Honda
+Road trip ve formuli Red Bull Racing Honda po Česku a Slovensku</desc>
+  </programme>
+  <programme start="20261011103000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011110000 +0200">
+    <title>Yoga with Maťka</title>
+    <desc>Outdoor chicks yoga</desc>
+  </programme>
+  <programme start="20261011103000 +0200" channel="1022-history2" stop="20261011111500 +0200">
+    <title>Lost Relic Hunters</title>
+    <desc>Pilgrim Warriors
+In Hamilton’s possession is a wooden chest stuffed full of relics from medieval Christian pilgrimages. These include clamshell pendants</desc>
+  </programme>
+  <programme start="20261011103000 +0200" channel="1012-mnam-tv" stop="20261011115000 +0200">
+    <title>Chef Lignac po francouzsku (1)</title>
+    <desc>Réunion
+Zámořský departement a zároveň zámořský region Francie ležící v Indickém oceánu má samozřejmě také zcela svébytnou kuchyni. Cyril ochutnává</desc>
+  </programme>
+  <programme start="20261011103000 +0200" channel="1148-mnau-tv" stop="20261011110000 +0200">
+    <title>Crazy, crazy, crazy</title>
+    <desc>Divoký pořad plný energie a zábavy! Sledujte bláznivé kousky zvířat, jejich hravou povahu a nečekané momenty, které vás rozesmějí</desc>
+  </programme>
+  <programme start="20261011102400 +0200" channel="15471-skvele-tv" stop="20261011111000 +0200">
+    <title>V Pohybe</title>
+    <desc>Dni histórie
+Pohyb ako koníček má veľa možností. Pozrite sa na to, ako trávia čas v pohybe niektorí nadšenci. Niečo z toho možno skúsite aj vy</desc>
+  </programme>
+  <programme start="20261011101500 +0200" channel="15471-skvele-tv" stop="20261011102400 +0200">
+    <title>V Pohybe</title>
+    <desc>Pohyb v prírode 2
+Pohyb ako koníček má veľa možností. Pozrite sa na to, ako trávia čas v pohybe niektorí nadšenci. Niečo z toho možno skúsite aj vy</desc>
+  </programme>
+  <programme start="20261011101100 +0200" channel="15663-ballcasterz" stop="20261011112300 +0200">
+    <title>Podcast FLINTA III (11)</title>
+    <desc>Podcast FLINTA 9.10.-16.10</desc>
+  </programme>
+  <programme start="20261011100900 +0200" channel="1246-red-bull-tv" stop="20261011103400 +0200">
+    <title>Moto Rider vs Enduro Race</title>
+    <desc>Carson Brown's epic ride at Red Bull Erzbergrodeo
+Carson Brown returns to Red Bull Erzbergrodeo in 2025. Join his epic ride over rock faces and sharp sections</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="15683-vantage-classic" stop="20261011120000 +0200">
+    <title>Vantage Club Classics</title>
+    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011103000 +0200">
+    <title>O zdraví nielen na tanieri</title>
+    <desc />
+  </programme>
+  <programme start="20261011100000 +0200" channel="15681-vantage-dance" stop="20261011120000 +0200">
+    <title>Vantage Club Classics</title>
+    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="15403-volant.tv" stop="20261011110000 +0200">
+    <title>Štúdio volant.tv</title>
+    <desc>Marián Rajnoha</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="1363-haha-tv" stop="20261011110000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="15322-hgtv" stop="20261011110000 +0200">
+    <title>Rekreační objekt zdarma I (11)</title>
+    <desc>Klasická dovolená na Cape Codu
+Odborník v oblasti nemovitostí Matt Blashaw pomáhá párům najít a získat rekreační objekty. Ukáže jim, jak maximalizovat</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="1012-mnam-tv" stop="20261011103000 +0200">
+    <title>Molekulární kuchyně Hestona Blumenthala (3)</title>
+    <desc>Ne každý vyznává tradiční kuchařské techniky. Navštivte svět Hestona Blumenthala a jeho molekulární kuchyně. Moderní doba si žádá unikátní styl vaření</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="1148-mnau-tv" stop="20261011103000 +0200">
+    <title>Mláďátkov</title>
+    <desc>Roztomilý pořad plný mláďátek a jejich prvních krůčků. Sledujte nejhezčí chvíle z života mláďat, které vám vykouzlí úsměv na tváři</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="1246-red-bull-tv" stop="20261011100900 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011100000 +0200" channel="15680-vantage-music" stop="20261011110000 +0200">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="15474-noe+" stop="20261011111000 +0200">
+    <title>Má vlast</title>
+    <desc>Dubí u Teplic 
+Záznam koncertu Václava Hudečka a jeho hostů z kostela Neposkvrněného početí Panny Marie v Dubí u Teplic</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="1213-hobby-tv" stop="20261011110000 +0200">
+    <title>Mrakodrapy (1)</title>
+    <desc>Vyrobeno v Americe 1885 – 1930
+Počátky mrakodrapů je potřeba hledat v devatenáctém století v Chicagu. Původně to bylo převážně dřevěné město</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="15472-park-tv" stop="20261011110000 +0200">
+    <title>Zvieratá pod drobnohľadom</title>
+    <desc>Príbehy zvierat v priamom prenose a úplne naživo</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="15651-tv-nr-sr" stop="20261011110000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011100000 +0200" channel="15663-ballcasterz" stop="20261011101100 +0200">
+    <title>Zajícův vlog z Kongresového centra</title>
+    <desc>Kongresak vlog</desc>
+  </programme>
+  <programme start="20261011094500 +0200" channel="1022-history2" stop="20261011103000 +0200">
+    <title>Roswell: The First Witness (2)</title>
+    <desc>75% The Journal
+A cryptic journal sparks an unprecedented investigation into whether a UFO crashed at Roswell, NM in (1947). What actually crashed there? The US government claimed it was a weather balloon. Others spoke of alien bodies, and government intimidation</desc>
+  </programme>
+  <programme start="20261011094300 +0200" channel="15646-starmax-family" stop="20261011110800 +0200">
+    <title>Baron Prášil</title>
+    <desc>77% EPG PLAY Novodobý astronaut Toník přistane na Měsíci, kde se setká se zvláštní společností. Patří k ní Cyrano z Bergeracu, hrdinové verneovky Do Měsíce</desc>
+  </programme>
+  <programme start="20261011094200 +0200" channel="1246-red-bull-tv" stop="20261011100000 +0200">
+    <title>Highlights from Red Bull Erzbergrodeo 2025</title>
+    <desc>Red Bull Erzbergrodeo 2025
+Catch up on the highlights of the toughest Hard Enduro race on the planet - Red Bull Erzbergrodeo</desc>
+  </programme>
+  <programme start="20261011094000 +0200" channel="165-e!-entertainment" stop="20261011103500 +0200">
+    <title>Zpackané operace</title>
+    <desc>Sedmiletý steh
+Páry, které se blíží sedmému výročí svatby, mají sedm týdnů na to, aby svůj vztah vylepšily. Moderuje doktor Terry Dubrow a jeho žena Heather</desc>
+  </programme>
+  <programme start="20261011094000 +0200" channel="15505-story4-(cz)" stop="20261011104000 +0200">
+    <title>Sestra Angela a její boží děvčata I (13)</title>
+    <desc />
+  </programme>
+  <programme start="20261011093200 +0200" channel="15588-starmax-comedy" stop="20261011112000 +0200">
+    <title>Z města cesta</title>
+    <desc>67% EPG PLAY Z města cesta Bolka Polívky, Evy Holubové, Petra Čtvrtníčka, kočího Hrušky a trampa Kima je žánrově poetickým dokumentem o skutečné cestě všech</desc>
+  </programme>
+  <programme start="20261011093000 +0200" channel="15322-hgtv" stop="20261011100000 +0200">
+    <title>Mistři bazénů VII (8)</title>
+    <desc>74% Luxusní laguna na kopci
+Nový rodinný dům v kalifornských kopcích má nádherný výhled na jezero. Kamenitá hlína však při stavbě bazénu na kopci ztěžuje týmu práci</desc>
+  </programme>
+  <programme start="20261011093000 +0200" channel="15403-volant.tv" stop="20261011100000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Hrubiš- BMW M5 CS</desc>
+  </programme>
+  <programme start="20261011093000 +0200" channel="1012-mnam-tv" stop="20261011100000 +0200">
+    <title>Pravá Itálie s Riccardem (4)</title>
+    <desc>La Bottega Tusarova
+Zkušený šéfkuchař a úspěšný majitel řady podniků v Praze, Ital Riccardo Lucque, zavede v novém dokumentárním pořadu diváky do svých</desc>
+  </programme>
+  <programme start="20261011093000 +0200" channel="1148-mnau-tv" stop="20261011100000 +0200">
+    <title>Mňauzoo</title>
+    <desc>Objevte fascinující svět zvířat v pořadu plném pohody a zábavy. Sledujte, jak různá zvířata žijí, hrají si a poznávají svět</desc>
+  </programme>
+  <programme start="20261011093000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011100000 +0200">
+    <title>Zorafit- Ako cvičiť doma</title>
+    <desc>AKD Cviky na perfektné stehná a zadoček, AKD Strečing- po náročnom cvičení</desc>
+  </programme>
+  <programme start="20261011092900 +0200" channel="15647-starmax-cz-sk" stop="20261011104800 +0200">
+    <title>Rytmus, sídliskový sen</title>
+    <desc>EPG PLAY Film RYTMUS sídliskový sen vznikal 8 let a zblízka dokumentuje život jedné z nejznámějších osobností česko - slovenské hudební scény</desc>
+  </programme>
+  <programme start="20261011092500 +0200" channel="15474-noe+" stop="20261011100000 +0200">
+    <title>Večeře u Slováka</title>
+    <desc>28. neděle v mezidobí - cyklus A 
+Debata nad nedělním Božím slovem</desc>
+  </programme>
+  <programme start="20261011091500 +0200" channel="15471-skvele-tv" stop="20261011101500 +0200">
+    <title>V Kuchyni</title>
+    <desc>Pečenie makróniek
+Kuchyňa nemusí byť len miestom pravidelného vyvárania. V kuchyni to môže byť aj zaujímavé. Pozerajte a skúšajte</desc>
+  </programme>
+  <programme start="20261011091100 +0200" channel="1246-red-bull-tv" stop="20261011094200 +0200">
+    <title>Milestone</title>
+    <desc>Intimní portrét snowboardisty Eera Ettaly
+Sleduj snowboardistu Eera Ettalu za scénou, jak natáčí svůj video part a zároveň balancuje rodinný život</desc>
+  </programme>
+  <programme start="20261011091000 +0200" channel="15474-noe+" stop="20261011092500 +0200">
+    <title>Církev za oponou</title>
+    <desc>Celibát 
+Všechno, co jste kdy chtěli vědět o církvi, ale báli jste se zeptat</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="15683-vantage-classic" stop="20261011100000 +0200">
+    <title>Wake Up To The 00s</title>
+    <desc>Get ready for your day with some 00's classics!</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="1012-mnam-tv" stop="20261011093000 +0200">
+    <title>Pizzaři z Parmy (3)</title>
+    <desc>Prohlídka San Sebastianu
+Dodávka našich pizzařů konečně vyráží na otevřené silnice pevninské Evropy, kde jsou chlapci pohoštěni fantastickou gurmánskou</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="15651-tv-nr-sr" stop="20261011100000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="1148-mnau-tv" stop="20261011093000 +0200">
+    <title>Psí dobrodružství</title>
+    <desc>Zábavný pořad plný psích příběhů a radosti. Sledujte úžasné okamžiky ze života psů, jejich hravost a věrnost, které vás zahřejí u srdce</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="15680-vantage-music" stop="20261011100000 +0200">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!)</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="1022-history2" stop="20261011094500 +0200">
+    <title>MonsterQuest</title>
+    <desc>The Last Dinosaur
+Worldwide, there have been hundreds of mysterious sightings spanning many centuries. Throughout history, these sightings have spawned countless stories</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="1213-hobby-tv" stop="20261011100000 +0200">
+    <title>Jóga: energie života (9)</title>
+    <desc>Zhluboka se nadechněte a připravte se na opravdovou lekci jógy. Díky našemu pořadu pochopíte, co může jóga znamenat pro váš život a jak dokáže pozitivně ovlivnit každý den</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="15403-volant.tv" stop="20261011093000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Dominic cars- KIA Sorento</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="1363-haha-tv" stop="20261011100000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="15472-park-tv" stop="20261011100000 +0200">
+    <title>Divočina s Park TV</title>
+    <desc>Réžia programu je v rukách zvierat, ktoré sú zároveň hlavnými hrdinami príbehov. Nechajte sa prekvapiť s Park TV</desc>
+  </programme>
+  <programme start="20261011090000 +0200" channel="15322-hgtv" stop="20261011093000 +0200">
+    <title>Mistři bazénů VII (7)</title>
+    <desc>74% Rekreační bazén u horského jezera
+Aktivní kalifornská rodina chce bazén, který jim bude připomínat oblíbené prázdniny u jezera. Chtějí i 6,5metrový</desc>
+  </programme>
+  <programme start="20261011085700 +0200" channel="15663-ballcasterz" stop="20261011100000 +0200">
+    <title>Zajíc ve Druhé Lize (111)</title>
+    <desc>DRUHÁ LIGA 111 7.10.-14.10</desc>
+  </programme>
+  <programme start="20261011085500 +0200" channel="15471-skvele-tv" stop="20261011091500 +0200">
+    <title>V Kuchyni</title>
+    <desc>Pečenie kváskového chleba
+Kuchyňa nemusí byť len miestom pravidelného vyvárania. V kuchyni to môže byť aj zaujímavé. Pozerajte a skúšajte</desc>
+  </programme>
+  <programme start="20261011084500 +0200" channel="165-e!-entertainment" stop="20261011094000 +0200">
+    <title>Zpackané operace</title>
+    <desc>Comebacky pacientů
+Žena, která málem zemřela při plastice břicha, se snaží odstranit své jizvy, zatímco bývalá pacientka překvapí lékaře svou šokující proměnou</desc>
+  </programme>
+  <programme start="20261011084000 +0200" channel="15505-story4-(cz)" stop="20261011094000 +0200">
+    <title>Sestra Angela a její boží děvčata I (12)</title>
+    <desc />
+  </programme>
+  <programme start="20261011083000 +0200" channel="15403-volant.tv" stop="20261011090000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Hrubis- Citroen C5 Aicross hybrid, Opel Mokka 96</desc>
+  </programme>
+  <programme start="20261011083000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011093000 +0200">
+    <title>Power joga</title>
+    <desc>1. trening</desc>
+  </programme>
+  <programme start="20261011083000 +0200" channel="1213-hobby-tv" stop="20261011090000 +0200">
+    <title>Jak najít vysněný dům (25)</title>
+    <desc>Prozkoumáme trendy a podíváme se, jak jihoafričtí realitní profesionálové drží krok s měnícím se prostředím nemovitostí, když se pokoušejí spojit</desc>
+  </programme>
+  <programme start="20261011083000 +0200" channel="15322-hgtv" stop="20261011090000 +0200">
+    <title>Mistři bazénů VII (6)</title>
+    <desc>74% Bazén s výhledem
+V Kalifornii čeká na Paula a Briana obtížný úkol. Musejí proměnit venkovní prostor s nezvyklým tvarem na vyvýšený bazén s výhledem na moře</desc>
+  </programme>
+  <programme start="20261011083000 +0200" channel="1148-mnau-tv" stop="20261011090000 +0200">
+    <title>Kočičí svět</title>
+    <desc>Pořad plný kočičí elegance, hravosti a kouzla. Užijte si úžasné momenty ze života koček, které vás okouzlí a pobaví</desc>
+  </programme>
+  <programme start="20261011082000 +0200" channel="15474-noe+" stop="20261011091000 +0200">
+    <title>Ohlédnutí za CSM Ostrava 2026</title>
+    <desc>Sestřih průběhu letošního Celostátního setkání mládeže v Ostravě</desc>
+  </programme>
+  <programme start="20261011081500 +0200" channel="15474-noe+" stop="20261011082000 +0200">
+    <title>Z pokladů duše</title>
+    <desc>P. Bogdan Stępień OSPPE - Přímluva Panny Marie 
+Proč je dobré obracet se modlitbou na Matku Boží</desc>
+  </programme>
+  <programme start="20261011081500 +0200" channel="1022-history2" stop="20261011090000 +0200">
+    <title>Ancient Aliens</title>
+    <desc>They Came From the Sky
+Ancient cultures from around the world believed that meteorites were sacred stones imbued with the power of the Gods</desc>
+  </programme>
+  <programme start="20261011081000 +0200" channel="15646-starmax-family" stop="20261011094300 +0200">
+    <title>Mosley</title>
+    <desc>63% EPG PLAY Mosley a jeho rodina stejně jako ostatní kozloni slouží lidem. Nikoho ale nezajímá, že kozloni jsou inteligentní bytosti, které mluví a používají jazyk jako lidé</desc>
+  </programme>
+  <programme start="20261011080100 +0200" channel="15588-starmax-comedy" stop="20261011093200 +0200">
+    <title>Léto v Benátkách</title>
+    <desc>Emile je patnáct. Žije v Montargisu mezi milým bláznivým otcem a matkou, která si vždy vlasy barví na blond, protože se jí zdá, že je tak krásnější</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="15682-vantage-rock" stop="20261011110000 +0200">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="15474-noe+" stop="20261011081500 +0200">
+    <title>Přejeme si...</title>
+    <desc>Přání a písnička pro všechny, kteří jsou členy Klubu přátel televize Noe a dnes slaví své narozeniny</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="15403-volant.tv" stop="20261011083000 +0200">
+    <title>Testy nových áut</title>
+    <desc>Dominic Cars- Opel insignia nove,</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="1363-haha-tv" stop="20261011090000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="15681-vantage-dance" stop="20261011100000 +0200">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="1012-mnam-tv" stop="20261011090000 +0200">
+    <title>Jóga: energie života (11)</title>
+    <desc>Jóga na hubnutí
+Zhluboka se nadechněte a připravte se na opravdovou lekci jógy. Díky našemu pořadu pochopíte, co může jóga znamenat pro váš život</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="1213-hobby-tv" stop="20261011083000 +0200">
+    <title>Vitální zahrada (4)</title>
+    <desc>Jste nováčci v zahradničení a chtěli byste se naučit, jak správně pečovat o rostliny? Z pořadu Vitální zahrada si odnesete spoustu rad a tipů</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="15680-vantage-music" stop="20261011090000 +0200">
+    <title>Breakfast with Vantage Music</title>
+    <desc>Get ready for your day with Vantage Music</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011083000 +0200">
+    <title>Zorafit- Ako cvičiť doma</title>
+    <desc>AKD Cviky na vnútorné stehná s loptou</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="15683-vantage-classic" stop="20261011090000 +0200">
+    <title>Wake Up To The 90s</title>
+    <desc>Get ready for your day with some 90's classics!</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="1246-red-bull-tv" stop="20261011080000 +0200">
+    <title>Program information unavailable at this time</title>
+    <desc />
+  </programme>
+  <programme start="20261011080000 +0200" channel="15322-hgtv" stop="20261011083000 +0200">
+    <title>Mistři bazénů VII (5)</title>
+    <desc>74% Souboj na skluzavkách
+Brian a Paul navrhnou bazén s obrovskými vodními skluzavkami. Při stavbě umělého kopce však čelí problémům se zařízením</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="15472-park-tv" stop="20261011090000 +0200">
+    <title>Divočina s Park TV</title>
+    <desc>Réžia programu je v rukách zvierat, ktoré sú zároveň hlavnými hrdinami príbehov. Nechajte sa prekvapiť s Park TV</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="15651-tv-nr-sr" stop="20261011090000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011080000 +0200" channel="1246-red-bull-tv" stop="20261011091100 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011075900 +0200" channel="15647-starmax-cz-sk" stop="20261011092900 +0200">
+    <title>Pohádky tisíce a jedné noci</title>
+    <desc>74% EPG PLAY Klasik domácího trikového filmu Karel Zeman se na od 70. let začal vracet k čistě animované tvorbě. Jako inspirace mu posloužily arabské pohádky</desc>
+  </programme>
+  <programme start="20261011075200 +0200" channel="15588-starmax-comedy" stop="20261011080100 +0200">
+    <title>Jen počkej zající I (8)</title>
+    <desc>EPG PLAY Snad ani není třeba představovat tyto nejpopulárnější postavičky z ruských animovaných filmů. Podívejte se na jejich spanilé příběhy plné honiček a překvapení</desc>
+  </programme>
+  <programme start="20261011075200 +0200" channel="15649-kviff.tv" stop="20261011132000 +0200">
+    <title>Zveme na KVIFF.TV</title>
+    <desc>Filmy, které stojí za váš čas. Sledujte filmové novinky i kultovní díla každý den, po celý rok na www.kviff.tv</desc>
+  </programme>
+  <programme start="20261011075000 +0200" channel="165-e!-entertainment" stop="20261011084500 +0200">
+    <title>Hollywoodské médium s Tylerem Henrym</title>
+    <desc>Teresa Giudice, Jeannie &amp; Mama Mai, La Toya Jackson
+Teresa Giudice se snaží vydržet, když se Tyler spojí s její matkou, a La Toya Jackson se snaží přenést</desc>
+  </programme>
+  <programme start="20261011074900 +0200" channel="1246-red-bull-tv" stop="20261011080000 +0200">
+    <title>Red Bull Soapbox Race III (5)</title>
+    <desc>2018's best crashes and smashes
+Skinny wheels, a narrow wheelbase and a tall chassis, are a recipe for big crashes and here's the proof</desc>
+  </programme>
+  <programme start="20261011074200 +0200" channel="15588-starmax-comedy" stop="20261011075200 +0200">
+    <title>Jen počkej zající I (7)</title>
+    <desc>EPG PLAY Snad ani není třeba představovat tyto nejpopulárnější postavičky z ruských animovaných filmů. Podívejte se na jejich spanilé příběhy plné honiček a překvapení</desc>
+  </programme>
+  <programme start="20261011074000 +0200" channel="1246-red-bull-tv" stop="20261011074900 +0200">
+    <title>Red Bull Soapbox Race II (3)</title>
+    <desc>2016's top car designs
+Nothing less than infinity and beyond was enough for 2016's top design wizards. or at least the finish line</desc>
+  </programme>
+  <programme start="20261011074000 +0200" channel="15505-story4-(cz)" stop="20261011084000 +0200">
+    <title>Sestra Angela a její boží děvčata I (11)</title>
+    <desc />
+  </programme>
+  <programme start="20261011073300 +0200" channel="15646-starmax-family" stop="20261011081000 +0200">
+    <title>Tatonkovy příběhy 31.- (33)</title>
+    <desc>EPG PLAY Kouzelné příběhy tří vlčích mláďat a jejich přítele, kterým je hodný, starý a moudrý býk Tatonka. Společně putují přírodou a zažívají neuvěřitelná dobrodružství</desc>
+  </programme>
+  <programme start="20261011073300 +0200" channel="15588-starmax-comedy" stop="20261011074200 +0200">
+    <title>Jen počkej zající I (6)</title>
+    <desc>EPG PLAY Snad ani není třeba představovat tyto nejpopulárnější postavičky z ruských animovaných filmů. Podívejte se na jejich spanilé příběhy plné honiček a překvapení</desc>
+  </programme>
+  <programme start="20261011073000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011080000 +0200">
+    <title>Zorafit- Ako cvičiť doma</title>
+    <desc>AKD Cviky na stehná a zadok s expanderom</desc>
+  </programme>
+  <programme start="20261011073000 +0200" channel="1213-hobby-tv" stop="20261011080000 +0200">
+    <title>Moje Dubaj (1)</title>
+    <desc>Pořad „My Day Dubai“ vás zavede do luxusního světa Dubaje. Moderátorka Gabriela Miloda představuje wellness, fitness a gastronomii v exkluzivních resortech</desc>
+  </programme>
+  <programme start="20261011073000 +0200" channel="1148-mnau-tv" stop="20261011083000 +0200">
+    <title>Mňaustar</title>
+    <desc>Myslíte si, že váš domácí miláček by se mohl stát televizní hvězdou? Nahrajte nám vaše videa přes webový formulář na www.imnau.cz a sledujte Mňaustar</desc>
+  </programme>
+  <programme start="20261011073000 +0200" channel="1012-mnam-tv" stop="20261011080000 +0200">
+    <title>Dolce Vita (24)</title>
+    <desc>Navštivte s námi nejkrásnější místa Evropy a podívejte se s námi pod pokličku toho co velké metropole nabízí. Inspirující design, bohatá historie, lokální</desc>
+  </programme>
+  <programme start="20261011073000 +0200" channel="1022-history2" stop="20261011081500 +0200">
+    <title>The Unxplained With William Shatner</title>
+    <desc>The Oak Island Curse
+Could a cache of fantastic riches have been buried centuries ago on a tiny island in the North Atlantic? And if such a treasure</desc>
+  </programme>
+  <programme start="20261011073000 +0200" channel="15403-volant.tv" stop="20261011080000 +0200">
+    <title>Videoblog volant.tv</title>
+    <desc>Internetové podvody s autami</desc>
+  </programme>
+  <programme start="20261011072800 +0200" channel="15471-skvele-tv" stop="20261011085500 +0200">
+    <title>V Umení</title>
+    <desc>Výroba trofeje
+Zdá sa vám svet umenia neprístupný? Opak je pravdou. V umení sa môžte nájsť aj vy. Ak máte záujem, sledujte ako na to</desc>
+  </programme>
+  <programme start="20261011072200 +0200" channel="15663-ballcasterz" stop="20261011085700 +0200">
+    <title>Gunners Talk (115)</title>
+    <desc>Ft. Kristína Němcová
+GT 115 - 22.9. - 12.10</desc>
+  </programme>
+  <programme start="20261011071700 +0200" channel="15663-ballcasterz" stop="20261011072200 +0200">
+    <title>Trenér Daniel</title>
+    <desc>Hráči Sparty a Baníku
+TD 22: 6.10. - 20.10</desc>
+  </programme>
+  <programme start="20261011071000 +0200" channel="1012-mnam-tv" stop="20261011073000 +0200">
+    <title>Moje zahrada (30)</title>
+    <desc>Marči Borbáš ukazuje, jak se postarat o zahradu a jak zužitkovat její plody v kuchyni</desc>
+  </programme>
+  <programme start="20261011071000 +0200" channel="15474-noe+" stop="20261011080000 +0200">
+    <title>Večer chval</title>
+    <desc>Živá modlitba a chvála 
+Chvála Boha modlitbou a zpěvem. Do chval nás uvede schola z Kobeřic</desc>
+  </programme>
+  <programme start="20261011070000 +0200" channel="1363-haha-tv" stop="20261011080000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011070000 +0200" channel="15472-park-tv" stop="20261011080000 +0200">
+    <title>RELAX S PARK TV</title>
+    <desc>Ponorte sa s nami do nádherných farieb prírody a rozmanitého života v nej. Relaxujte s Park TV</desc>
+  </programme>
+  <programme start="20261011070000 +0200" channel="15403-volant.tv" stop="20261011073000 +0200">
+    <title>Videoblog volant.tv</title>
+    <desc>Audi RS Q8, DS 3 Crossback e-tense</desc>
+  </programme>
+  <programme start="20261011070000 +0200" channel="1148-mnau-tv" stop="20261011073000 +0200">
+    <title>Mláďátkov</title>
+    <desc>Roztomilý pořad plný mláďátek a jejich prvních krůčků. Sledujte nejhezčí chvíle z života mláďat, které vám vykouzlí úsměv na tváři</desc>
+  </programme>
+  <programme start="20261011070000 +0200" channel="15322-hgtv" stop="20261011080000 +0200">
+    <title>Nezvaní hosté I (2)</title>
+    <desc>63% Záchod s vyhlídkou
+Jon Knight překvapí rodinu s dětmi z předchozích vztahů na fungující farmě 72hodinovou proměnou zanedbané ložnice v klidné útočiště</desc>
+  </programme>
+  <programme start="20261011070000 +0200" channel="1213-hobby-tv" stop="20261011073000 +0200">
+    <title>Kutilem snadno a rychle (6)</title>
+    <desc>Udělat svůj domov útulnějším nemusí být úkolem pro bytového architekta. Některá účelová i designová řešení zvládnete hravě sami</desc>
+  </programme>
+  <programme start="20261011070000 +0200" channel="1246-red-bull-tv" stop="20261011070000 +0200">
+    <title>How Luke Czepiela Landed a Plane on a Tiny Helipad</title>
+    <desc>The story behind Luke Czepiela’s iconic skyscraper plane landing
+See rare BTS footage of an aviation marvel: landing a plane on Dubai’s Burj Al Arab tiny helipad</desc>
+  </programme>
+  <programme start="20261011070000 +0200" channel="15683-vantage-classic" stop="20261011080000 +0200">
+    <title>Wake Up To The 80s</title>
+    <desc>Get ready for your day with some 80's classics!</desc>
+  </programme>
+  <programme start="20261011070000 +0200" channel="15651-tv-nr-sr" stop="20261011080000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011070000 +0200" channel="1246-red-bull-tv" stop="20261011074000 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011065500 +0200" channel="15646-starmax-family" stop="20261011073300 +0200">
+    <title>Hlavule</title>
+    <desc>1.-3.díl
+EPG PLAY Původní loutkový seriál Hlavule představí osobnosti naší historie, děti prožijí s Kašpárkem ty nejvýznamnější okamžiky, budou u zrodu</desc>
+  </programme>
+  <programme start="20261011065500 +0200" channel="165-e!-entertainment" stop="20261011075000 +0200">
+    <title>Hollywoodské médium s Tylerem Henrym</title>
+    <desc>Brooke Burke-Charvet, Robert Buckley, Hayley Orrantia, Soleil Moon Frye
+Brooke Burke-Charvet, jejíž srdce bylo nespočetněkrát zlomené, se díky poselství</desc>
+  </programme>
+  <programme start="20261011064700 +0200" channel="1246-red-bull-tv" stop="20261011070000 +0200">
+    <title>Red Bull Soapbox Race II (6)</title>
+    <desc>2019's top car designs
+A reversing caravan, a bang-on tribute to Mr Bean and one very wobbly pinata took home 2019's gold stars</desc>
+  </programme>
+  <programme start="20261011064500 +0200" channel="1022-history2" stop="20261011073000 +0200">
+    <title>UFO Files: Deep Sea Ufo's</title>
+    <desc>Red Alert
+In this hour, we'll dive deeper into the ongoing mystery of USOs, Underwater Submerged Objects, UFOs that have reportedly been witnessed going</desc>
+  </programme>
+  <programme start="20261011063600 +0200" channel="15647-starmax-cz-sk" stop="20261011075900 +0200">
+    <title>Plastic Symphony</title>
+    <desc>65% EPG PLAY Matúš je talentovaný hudebník, který však slibně se rozvíjející kariéru ukončil, když mu onemocněla adoptivní matka. Po její smrti</desc>
+  </programme>
+  <programme start="20261011063000 +0200" channel="1148-mnau-tv" stop="20261011070000 +0200">
+    <title>Mňauzoo</title>
+    <desc>Objevte fascinující svět zvířat v pořadu plném pohody a zábavy. Sledujte, jak různá zvířata žijí, hrají si a poznávají svět</desc>
+  </programme>
+  <programme start="20261011063000 +0200" channel="15403-volant.tv" stop="20261011070000 +0200">
+    <title>Testy jazdených áut</title>
+    <desc>Startstop- AAA Auto Škoda Superb 2FL 2013, Dominic cars- Renault Thalia</desc>
+  </programme>
+  <programme start="20261011063000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011073000 +0200">
+    <title>Power joga</title>
+    <desc>10.tréning</desc>
+  </programme>
+  <programme start="20261011062500 +0200" channel="15646-starmax-family" stop="20261011065500 +0200">
+    <title>Raju 1. - (4)</title>
+    <desc>EPG PLAY Vydej se na úžasnou jízdu s červenou tříkolkou Raju a navštiv s ním město Funpur! Právě tam na tebe čekají jeho přátelé autobus Bobby, motocykl</desc>
+  </programme>
+  <programme start="20261011061600 +0200" channel="15647-starmax-cz-sk" stop="20261011063600 +0200">
+    <title>Roky už se toulám</title>
+    <desc>EPG PLAY Krátký dokumentární snímek z dílny režiséra Miloše Šimčíka bilancuje kariéru zpěváka, který jako málokdo v našich poměrech zažil prudký vzestup Přesto se Bob Frídl (1947-2013)</desc>
+  </programme>
+  <programme start="20261011061000 +0200" channel="15471-skvele-tv" stop="20261011072800 +0200">
+    <title>Mozaika umenia</title>
+    <desc>V Pohybe
+TV SKVELE si pre vás pripravilo novú talkshow. MOZAIKA UMENIA, to sú zaujímaví hostia, hudobné predstavenia, bláznivé úlohy a mnoho ďalšieho</desc>
+  </programme>
+  <programme start="20261011060700 +0200" channel="15663-ballcasterz" stop="20261011071700 +0200">
+    <title>Baletky (58)</title>
+    <desc>Pořad o Realu Madrid
+Baletky 58 - 23.9-10.10</desc>
+  </programme>
+  <programme start="20261011060500 +0200" channel="15474-noe+" stop="20261011071000 +0200">
+    <title>Ateliér užité modlitby</title>
+    <desc>Marek Orko Vácha a Martin Staněk 
+Marek Orko Vácha hovoří se svým hostem, Martinem Staňkem, koordinátorem a pastoračním referentem Římskokatolické</desc>
+  </programme>
+  <programme start="20261011060000 +0200" channel="165-e!-entertainment" stop="20261011065500 +0200">
+    <title>Zpackané operace</title>
+    <desc>Ztracený zadek
+Nešťastná operace způsobí ženě jizvy a chybějící půlku zadku, což je výzva pro doktora Dubrowa. Modelka hledá druhý názor ohledně zvětšení prsou</desc>
+  </programme>
+  <programme start="20261011060000 +0200" channel="1012-mnam-tv" stop="20261011071000 +0200">
+    <title>Vlasatí motorkáři - Asijské dobrodružství (3)</title>
+    <desc>Thajsko: Pláže a hory
+Si a Dave cestují na pláže lemované palmami na jihu a do hor porostlých džunglí na severu, aby zjistili, jak thajská multikulturní</desc>
+  </programme>
+  <programme start="20261011060000 +0200" channel="1246-red-bull-tv" stop="20261011064700 +0200">
+    <title>Program Red Bull TV</title>
+    <desc />
+  </programme>
+  <programme start="20261011060000 +0200" channel="15403-volant.tv" stop="20261011063000 +0200">
+    <title>Testy jazdených áut</title>
+    <desc>Hrubiš-Porsche Cayenne diesel, Honda HRV bazar, Startstop- Passat AAA</desc>
+  </programme>
+  <programme start="20261011060000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011063000 +0200">
+    <title>Fitrecepty</title>
+    <desc />
+  </programme>
+  <programme start="20261011060000 +0200" channel="15651-tv-nr-sr" stop="20261011070000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011060000 +0200" channel="15472-park-tv" stop="20261011070000 +0200">
+    <title>RELAX S PARK TV</title>
+    <desc>Ponorte sa s nami do nádherných farieb prírody a rozmanitého života v nej. Relaxujte s Park TV</desc>
+  </programme>
+  <programme start="20261011060000 +0200" channel="15322-hgtv" stop="20261011070000 +0200">
+    <title>Klub podivných kupců I (5)</title>
+    <desc>Klid a venkovské prostory
+Noel pomáhá jednomu páru najít vytoužené klidné místo a druhému ideální farmu, kde by si mohl vybudovat vysněný venkovský klub</desc>
+  </programme>
+  <programme start="20261011060000 +0200" channel="1363-haha-tv" stop="20261011070000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011060000 +0200" channel="1148-mnau-tv" stop="20261011063000 +0200">
+    <title>Psí dobrodružství</title>
+    <desc>Zábavný pořad plný psích příběhů a radosti. Sledujte úžasné okamžiky ze života psů, jejich hravost a věrnost, které vás zahřejí u srdce</desc>
+  </programme>
+  <programme start="20261011060000 +0200" channel="1213-hobby-tv" stop="20261011070000 +0200">
+    <title>Budovy, máte zelenou! (3)</title>
+    <desc>Kvalita vnitřního prostředí
+Rob navštěvuje 78 Corlette a 1 Discovery Place — dvě kanceláře v městě Johannesburgu, které vytvořily vnitřní prostředí</desc>
+  </programme>
+  <programme start="20261011060000 +0200" channel="1022-history2" stop="20261011064500 +0200">
+    <title>The Best of MonsterQuest</title>
+    <desc>Mystery Of The Chupacabra
+Something strange is killing animals and sucking the blood from its victims. Is this creature the mysterious Chupacabra</desc>
+  </programme>
+  <programme start="20261011055600 +0200" channel="15649-kviff.tv" stop="20261011075200 +0200">
+    <title>Zveme na KVIFF.TV</title>
+    <desc>Filmy, které stojí za váš čas. Sledujte filmové novinky i kultovní díla každý den, po celý rok na www.kviff.tv</desc>
+  </programme>
+  <programme start="20261011055500 +0200" channel="15588-starmax-comedy" stop="20261011073300 +0200">
+    <title>Kouzelná Beruška a Černý kocour ve filmu</title>
+    <desc>61% EPG PLAY Celovečerní film Kouzelná Beruška a Černý kocour ukáže zrození superhrdinů, kteří brání Paříž před zlem a kteří si v pěti sériích stejnojmenného</desc>
+  </programme>
+  <programme start="20261011054700 +0200" channel="15663-ballcasterz" stop="20261011060700 +0200">
+    <title>Kontrapresink (342)</title>
+    <desc>: Ronaldo se zbláznil
+Kontra 342: 7.10.-17.10</desc>
+  </programme>
+  <programme start="20261011053000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011060000 +0200">
+    <title>Instagym</title>
+    <desc>HIIT Uper body 2</desc>
+  </programme>
+  <programme start="20261011053000 +0200" channel="1213-hobby-tv" stop="20261011060000 +0200">
+    <title>Tipy a nápady</title>
+    <desc>Pořad plný praktických tipů a nápadů pro domácnost, tvoření i každodenní život. Inspirace, která vám usnadní den!</desc>
+  </programme>
+  <programme start="20261011053000 +0200" channel="1148-mnau-tv" stop="20261011060000 +0200">
+    <title>Kočičí svět</title>
+    <desc>Pořad plný kočičí elegance, hravosti a kouzla. Užijte si úžasné momenty ze života koček, které vás okouzlí a pobaví</desc>
+  </programme>
+  <programme start="20261011053000 +0200" channel="1012-mnam-tv" stop="20261011060000 +0200">
+    <title>Nejlepší recepty</title>
+    <desc>Naši sympatičtí kuchaři pro vás připravují pokrmy z lokálních a snadno dostupných ingrediencí</desc>
+  </programme>
+  <programme start="20261011053000 +0200" channel="15322-hgtv" stop="20261011060000 +0200">
+    <title>Ostrovní život II (8)</title>
+    <desc>75% Z Atlanty na ostrov u Savannah
+Rodiny, páry i jednotlivci už jen nesní o životě na ostrově, ale mění tento sen v realitu. Podaří se jim nalézt perfektní</desc>
+  </programme>
+  <programme start="20261011053000 +0200" channel="15403-volant.tv" stop="20261011060000 +0200">
+    <title>Videoblog volant.tv</title>
+    <desc>Audi RS6, Polícia STK</desc>
+  </programme>
+  <programme start="20261011052300 +0200" channel="1246-red-bull-tv" stop="20261011060000 +0200">
+    <title>One Extraordinary Year</title>
+    <desc>Athletes who weren't derailed from their dreams
+Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year</desc>
+  </programme>
+  <programme start="20261011052000 +0200" channel="15471-skvele-tv" stop="20261011061000 +0200">
+    <title>V Remesle</title>
+    <desc>Zlatníci z Banskej Štiavnice
+Ak chcete spoznať tých, čo sa našli v remesle, sledujte čo dokážu. Možno sa v remesle nájdete aj vy. Inšpirujte sa a nemajte strach začať</desc>
+  </programme>
+  <programme start="20261011051500 +0200" channel="1022-history2" stop="20261011060000 +0200">
+    <title>Digging For The Truth</title>
+    <desc>Giants of Patagonia
+Many explorers throughout the centuries, including the great Ferdinand Magellan, visited the region in South America now known</desc>
+  </programme>
+  <programme start="20261011050000 +0200" channel="15651-tv-nr-sr" stop="20261011060000 +0200">
+    <title>Aktuálne dianie z parlamentu</title>
+    <desc>Televízia Národnej rady SR prináša detailný pohľad na dianie v parlamente – od priamych prenosov rokovaní až po vystúpenia poslancov a členov vlády</desc>
+  </programme>
+  <programme start="20261011050000 +0200" channel="15403-volant.tv" stop="20261011053000 +0200">
+    <title>Videoblog volant.tv</title>
+    <desc>Yaris GR</desc>
+  </programme>
+  <programme start="20261011050000 +0200" channel="15322-hgtv" stop="20261011053000 +0200">
+    <title>Ostrovní život II (7)</title>
+    <desc>75% Rodina se stěhuje na ostrov Whidbey Island
+Rodiny, páry i jednotlivci už jen nesní o životě na ostrově, ale mění tento sen v realitu</desc>
+  </programme>
+  <programme start="20261011050000 +0200" channel="1472-body-in-balance-(sk)" stop="20261011053000 +0200">
+    <title>O zdraví nielen na tanieri</title>
+    <desc />
+  </programme>
+  <programme start="20261011050000 +0200" channel="15472-park-tv" stop="20261011060000 +0200">
+    <title>RELAX S PARK TV</title>
+    <desc>Ponorte sa s nami do nádherných farieb prírody a rozmanitého života v nej. Relaxujte s Park TV</desc>
+  </programme>
+  <programme start="20261011050000 +0200" channel="165-e!-entertainment" stop="20261011060000 +0200">
+    <title>Zpackané operace</title>
+    <desc>A je po všem
+Matka samoživitelka zoufale žádá o pomoc doktora Nassifa poté, co ji kousnutí psem připravilo o špičku nosu. Král BBL usiluje o mikrominimální pas</desc>
+  </programme>
+  <programme start="20261011050000 +0200" channel="15681-vantage-dance" stop="20261011080000 +0200">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+  </programme>
+  <programme start="20261011050000 +0200" channel="1012-mnam-tv" stop="20261011053000 +0200">
+    <title>Veget s Klárkou (7)</title>
+    <desc>Vášní Kláry Hájkové je tanec, vaření a pečení. Ve své show vám ukáže, že i zdravé jídlo může být lahodné. Klárka vaří z části raw pokrmy a spoustu vegetariánských jídel</desc>
+  </programme>
+  <programme start="20261011050000 +0200" channel="15680-vantage-music" stop="20261011080000 +0200">
+    <title>Breakfast with Vantage Music</title>
+    <desc>Get ready for your day with Vantage Music</desc>
+  </programme>
+  <programme start="20261011050000 +0200" channel="1363-haha-tv" stop="20261011060000 +0200">
+    <title>Nejzábavnější domácí videa</title>
+    <desc>Nejzábavnější domácí videa doplněné o vtipné informace. Domácí videa dětí, dospělých, ale i zvířat během jejich spontánních a veselých momentů</desc>
+  </programme>
+  <programme start="20261011050000 +0200" channel="15682-vantage-rock" stop="20261011080000 +0200">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking</desc>
+  </programme>
+  <programme start="20261011045600 +0200" channel="1246-red-bull-tv" stop="20261011052300 +0200">
+    <title>For Reals I (6)</title>
+    <desc>From skateboarding out a plane to 180m wall climb
+Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest</desc>
+  </programme>
+  <programme start="20261011044600 +0200" channel="15663-ballcasterz" stop="20261011054700 +0200">
+    <title>Za čárou (179)</title>
+    <desc>TEP - Dynamo, GKS - Baník
+Za čárou 179 - 6.10.-12.10</desc>
+  </programme>
+  <programme start="20261011044500 +0200" channel="15646-starmax-family" stop="20261011062500 +0200">
+    <title>Příběh stoleté ryby</title>
+    <desc>70% Příběh stoleté velryby</desc>
+  </programme>
+  <programme start="20261011043000 +0200" channel="1246-red-bull-tv" stop="20261011045600 +0200">
+    <title>For Reals I (1)</title>
+    <desc>From F1 desert racing to a skatepark in the sky
+Red Bull athletes do it all, from riding a skatepark under a hot air balloon to F1 drivers racing on water</desc>
+  </programme>
+  <programme start="20261011042300 +0200" channel="15647-starmax-cz-sk" stop="20261011061600 +0200">
+    <title>Čiara</title>
+    <desc>EPG PLAY Pětatřicetiletý Adam Krajňák je otcem tří mladých dcer, ale především hlavou slovensko-ukrajinského gangu, který se zabývá pašováním cigaret</desc>
+  </programme>
+  <programme start="20261011041800 +0200" channel="15588-starmax-comedy" stop="20261011055500 +0200">
+    <title>Dům na mušce</title>
+    <desc>58% EPG PLAY Pařížský pár, který se rozhodl žít nový život blíže přírodě, se se svými dvěma dětmi přestěhuje do malé venkovské obce. Když však zjistí</desc>
+  </programme>
+  <programme start="20261011040400 +0200" channel="1246-red-bull-tv" stop="20261011043000 +0200">
+    <title>For Reals I (5)</title>
+    <desc>From a paper plane contest to diving off ruins
+Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition</desc>
+  </programme>
+  <programme start="20261011033800 +0200" channel="1246-red-bull-tv" stop="20261011040400 +0200">
+    <title>For Reals I (2)</title>
+    <desc>From F1 soapbox racing to breaking world records
+Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big</desc>
+  </programme>
+  <programme start="20261011031200 +0200" channel="1246-red-bull-tv" stop="20261011033800 +0200">
+    <title>For Reals I (9)</title>
+    <desc>From soapbox madness to skydiving with an FMX bike
+Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes</desc>
+  </programme>
+  <programme start="20261011030700 +0200" channel="15646-starmax-family" stop="20261011044500 +0200">
+    <title>Nikdy se nepouštěj</title>
+    <desc>54% EPG PLAY Rodinu už po léta pronásleduje zlý duch. Jejich pocit bezpečí i samotná realita se začnou drolit ve chvíli, kdy si jedno z dětí položí otázku</desc>
+  </programme>
+  <programme start="20261011030300 +0200" channel="15647-starmax-cz-sk" stop="20261011042300 +0200">
+    <title>René Lacko</title>
+    <desc>Live in Bratislava
+EPG PLAY Koncertní vizitka slovenského bluesrockového kytaristy a jeho kapely nezapře, že Reného Lacka formoval Jimi Hendrix</desc>
+  </programme>
+  <programme start="20261011024500 +0200" channel="15588-starmax-comedy" stop="20261011041800 +0200">
+    <title>Je prostě báječná</title>
+    <desc>62% EPG PLAY Mladá a krásná filmová herečka poskytuje novinářce rozhovor o tom, jak se dokázala prosadit. Isabella začne otevřeně vyprávět o své původní práci</desc>
+  </programme>
+  <programme start="20261011023300 +0200" channel="1246-red-bull-tv" stop="20261011031200 +0200">
+    <title>Unrideable I (5)</title>
+    <desc>Through the pain
+Watch the drama as the FIM Hard Enduro World Championship 2024 finale plays out at 24MX Hixpania Hard Enduro</desc>
+  </programme>
+  <programme start="20261011021300 +0200" channel="15663-ballcasterz" stop="20261011044600 +0200">
+    <title>Zajíc v Kongresovém centru</title>
+    <desc>KongresakV2Final</desc>
+  </programme>
+  <programme start="20261011015300 +0200" channel="1246-red-bull-tv" stop="20261011023300 +0200">
+    <title>Unrideable I (4)</title>
+    <desc>Sacrifices
+Hard Enduro rivals Billy Bolt and Mario Román battle it out in Türkiye at the scenic 2024 Sea to Sky event</desc>
+  </programme>
+  <programme start="20261011011200 +0200" channel="1246-red-bull-tv" stop="20261011015300 +0200">
+    <title>Unrideable I (2)</title>
+    <desc>Changing perspectives
+Wade Young gives his all as a privateer in the 2024 Xross Hard Enduro Rally and Red Bull Romaniacs</desc>
+  </programme>
+  <programme start="20261011003200 +0200" channel="1246-red-bull-tv" stop="20261011011200 +0200">
+    <title>Unrideable I (1)</title>
+    <desc>Reign and rise
+At Red Bull Erzbergrodeo, 2023's winner - Manuel Lettenbichler - faces rising star Mitch Brightmore</desc>
+  </programme>
 </tv>
