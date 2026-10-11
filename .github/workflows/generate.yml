@@ -1,0 +1,35 @@
+name: Generovanie EPG
+
+on:
+  schedule:
+    # Spúšťa sa každý deň o 02:00 UTC (= 03:00 SEČ / 04:00 SELČ)
+    - cron: '0 2 * * *'
+  # Možnosť spustiť manuálne z GitHub
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repozitára
+        uses: actions/checkout@v4
+
+      - name: Nastavenie Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Inštalácia závislostí
+        run: pip install requests lxml
+
+      - name: Generovanie EPG
+        run: python generate_epg.py
+
+      - name: Commit a push epg.xml
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg.xml
+          git diff --staged --quiet || git commit -m "EPG aktualizácia $(date +'%Y-%m-%d %H:%M')"
+          git push
