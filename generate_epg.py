@@ -3,7 +3,6 @@
 # Generuje EPG pre T-Mobile CZ, Magio SK, SMS
 
 import os
-import sys
 import time
 import unicodedata
 import requests
@@ -13,27 +12,21 @@ import xmltv
 from datetime import datetime, timedelta
 
 # ── Nastavenia ──────────────────────────────────────────────────────────────
-NUM_DAYS = 1          # Počet dní dopredu
+NUM_DAYS = 1         # Počet dní dopredu
 NUM_DAYS_BACK = 0     # Počet dní spätne
 OUTPUT_FILE = "epg.xml"
 # ────────────────────────────────────────────────────────────────────────────
 
-from datetime import timezone
-import time as _time
-
 now = datetime.now()
 
-# Automatická detekcia letného/zimného času pre SR (UTC+1 zima, UTC+2 leto)
+# Automatická detekcia letného/zimného času pre SR
 def is_dst(dt):
-    """Vráti True ak platí letný čas (posledná nedeľa marca - posledná nedeľa októbra)"""
     year = dt.year
-    # Posledná nedeľa marca
     last_sunday_march = max(
         datetime(year, 3, day)
         for day in range(25, 32)
         if datetime(year, 3, day).weekday() == 6
     )
-    # Posledná nedeľa októbra
     last_sunday_october = max(
         datetime(year, 10, day)
         for day in range(25, 32)
@@ -42,10 +35,10 @@ def is_dst(dt):
     return last_sunday_march <= dt < last_sunday_october
 
 if is_dst(now):
-    TimeShift = " +0200"   # Letný čas SELČ
+    TimeShift = " +0200"
     TimeShift1 = " +0100"
 else:
-    TimeShift = " +0100"   # Zimný čas SEČ
+    TimeShift = " +0100"
     TimeShift1 = " +0000"
 
 print(f"Časová zóna: {TimeShift.strip()} ({'letný čas' if is_dst(now) else 'zimný čas'})")
@@ -64,7 +57,6 @@ def encode(string):
 
 
 def read_ids(filename):
-    """Načítaj ID kanálov zo súboru v priečinku channels/"""
     path = os.path.join("channels", filename)
     if not os.path.exists(path):
         print(f"  [!] Súbor {path} neexistuje - preskočujem")
@@ -74,7 +66,6 @@ def read_ids(filename):
 
 
 def _process_programme(y, tvch):
-    """Spracuje jeden program z Magio/TM API."""
     try:
         channel = y["channel"]["name"]
         if channel not in tvch:
@@ -132,12 +123,11 @@ def _process_programme(y, tvch):
 
 
 def get_tm_programmes(tm_ids, lng):
-    """Generuje EPG pre T-Mobile CZ alebo Magio SK."""
     prfx = "tm-" if lng == "cz" else "mag-"
     title_ = "T-Mobile TV GO" if lng == "cz" else "Magio GO"
     print(f"\n[{title_}] Začínam generovanie...")
 
-    tm_ids_list = tm_ids.split(",") if tm_ids else []
+    tm_ids_list = [x.strip() for x in tm_ids.split(",") if x.strip()] if tm_ids else []
 
     try:
         params = {
@@ -193,7 +183,6 @@ def get_tm_programmes(tm_ids, lng):
 
         print(f"  Kanálov: {len(active_channel_ids)}")
 
-        per = NUM_DAYS + NUM_DAYS_BACK
         for i in range(NUM_DAYS_BACK * -1, NUM_DAYS):
             next_day = now + timedelta(days=i)
             back_day = next_day - timedelta(days=1)
@@ -203,7 +192,6 @@ def get_tm_programmes(tm_ids, lng):
             print(f"  Sťahujem {date_}...")
 
             if lng == "cz":
-                # T-Mobile: hromadný request
                 tm_all = ",".join(active_channel_ids)
                 try:
                     url = (
@@ -218,7 +206,6 @@ def get_tm_programmes(tm_ids, lng):
                 except Exception as e:
                     print(f"  [!] Chyba {date_}: {e}")
             else:
-                # Magio SK: per-kanál
                 for ch_id in active_channel_ids:
                     try:
                         url = (
@@ -242,62 +229,83 @@ def get_tm_programmes(tm_ids, lng):
 
 
 def get_sms_programmes(sms_ids):
-    """Generuje EPG pre TV.SMS.cz"""
+    """Generuje EPG pre TV.SMS.cz cez 365dni.cz API"""
     print(f"\n[SMS] Začínam generovanie...")
 
-    root = None
-    try:
-        req = requests.get("http://www.tv.sms.cz/epg.xml.gz", timeout=60, stream=True)
-        content = gzip.decompress(req.content)
-        root = ET.fromstring(content)
-    except Exception:
-        try:
-            req = requests.get("http://www.tv.sms.cz/epg.xml", timeout=60)
-            root = ET.fromstring(req.content)
-        except Exception as e:
-            print(f"  [SMS] CHYBA: {e}")
-            return
-    if root is None:
-        print("  [SMS] CHYBA: nepodarilo sa načítať EPG")
+    sms_ids_list = [x.strip() for x in sms_ids.split(",") if x.strip()] if sms_ids else []
+    if not sms_ids_list:
+        print("  [SMS] Žiadne kanály")
         return
 
+    headers = {"user-agent": "SMSTVP/1.7.3 (242;cs_CZ) ID/ef284441-c1cd-4f9e-8e30-f5d8b1ac170c HW/Redmi Note 7 Android/10 (QKQ1.190910.002)"}
 
-    sms_ids_list = sms_ids.split(",") if sms_ids else []
+    try:
+        html = requests.get(
+            "http://programandroid.365dni.cz/android/v6-tv.php?locale=cs_CZ",
+            headers=headers, timeout=30
+        ).text
+        root_ch = ET.fromstring(html)
+    except Exception as e:
+        print(f"  [SMS] CHYBA načítania kanálov: {e}")
+        return
 
     ch = {}
-    for i in root.iter("channel"):
+    for i in root_ch.iter("a"):
         ch_id = i.attrib.get("id", "")
-        if not sms_ids_list or ch_id in sms_ids_list:
-            name_el = i.find("display-name")
+        if ch_id in sms_ids_list:
+            name_el = i.find("n")
             name = name_el.text if name_el is not None else ch_id
-            icon_el = i.find("icon")
-            icon = icon_el.attrib.get("src", "") if icon_el is not None else ""
-            ch[ch_id] = name
+            xml_id = encode((ch_id + "-" + name).replace(" ", "-").lower())
+            ch[ch_id] = xml_id
+            try:
+                icon = "http://sms.cz/kategorie/televize/bmp/loga/velka/" + i.find("o").text
+            except:
+                icon = ""
             W.addChannel({
                 "display-name": [(name, u"cs")],
-                "id": ch_id,
+                "id": xml_id,
                 "icon": [{"src": icon}] if icon else []
             })
 
     print(f"  Kanálov: {len(ch)}")
+    if not ch:
+        print("  [SMS] Žiadne kanály nenájdené")
+        return
 
+    chl = ",".join(ch.keys())
     count = 0
-    for prog in root.iter("programme"):
-        ch_id = prog.attrib.get("channel", "")
-        if ch_id in ch:
-            title_el = prog.find("title")
-            desc_el = prog.find("desc")
-            title = title_el.text if title_el is not None else ""
-            desc = desc_el.text if desc_el is not None else ""
-            programm = {
-                "channel": ch_id,
-                "start": prog.attrib.get("start", ""),
-                "stop": prog.attrib.get("stop", ""),
-                "title": [(title, u"")],
-                "desc": [(desc, u"")]
-            }
-            W.addProgramme(programm)
-            count += 1
+
+    for i in range(NUM_DAYS_BACK * -1, NUM_DAYS):
+        next_day = now + timedelta(days=i)
+        date = next_day.strftime("%Y-%m-%d")
+        date_ = next_day.strftime("%d.%m.%Y")
+        print(f"  Sťahujem {date_}...")
+        try:
+            html = requests.get(
+                "http://programandroid.365dni.cz/android/v6-program.php?datum=" + date + "&id_tv=" + chl,
+                headers=headers, timeout=30
+            ).text
+            root_prog = ET.fromstring(html)
+            for p in root_prog.iter("p"):
+                ch_id = p.attrib.get("id_tv", "")
+                if ch_id in ch:
+                    n = p.find("n").text if p.find("n") is not None else ""
+                    try:
+                        k = p.find("k").text or ""
+                    except:
+                        k = ""
+                    start = p.attrib.get("o", "").replace("-", "").replace(":", "").replace(" ", "") + TimeShift
+                    stop = p.attrib.get("d", "").replace("-", "").replace(":", "").replace(" ", "") + TimeShift
+                    W.addProgramme({
+                        "channel": ch[ch_id],
+                        "start": start,
+                        "stop": stop,
+                        "title": [(n, u"")],
+                        "desc": [(k, u"")]
+                    })
+                    count += 1
+        except Exception as e:
+            print(f"  [SMS] Chyba {date_}: {e}")
 
     print(f"  Programov: {count}")
     print(f"  [SMS] Hotovo")
@@ -310,22 +318,19 @@ def main():
     print(f"Dní dopredu: {NUM_DAYS}")
     print("=" * 50)
 
-    # Načítaj ID kanálov zo súborov
     tm_ids = read_ids("custom_channels_tm.txt")
     mag_ids = read_ids("custom_channels_mag.txt")
     sms_ids = read_ids("custom_channels.txt")
 
-    # Generuj EPG
-    if tm_ids is not None:
+    if tm_ids:
         get_tm_programmes(tm_ids, "cz")
 
-    if mag_ids is not None:
+    if mag_ids:
         get_tm_programmes(mag_ids, "sk")
 
-    if sms_ids is not None:
+    if sms_ids:
         get_sms_programmes(sms_ids)
 
-    # Zapis EPG
     print(f"\nZapisujem {OUTPUT_FILE}...")
     with open(OUTPUT_FILE, "wb") as f:
         W.write(f, pretty_print=True)
